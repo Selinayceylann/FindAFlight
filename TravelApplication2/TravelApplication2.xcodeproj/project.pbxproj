@@ -1,0 +1,523 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		8736C6C22BFE007C00F1D3F1 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8736C6C12BFE007C00F1D3F1 /* AppDelegate.swift */; };
+		8736C6C42BFE007C00F1D3F1 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8736C6C32BFE007C00F1D3F1 /* SceneDelegate.swift */; };
+		8736C6C62BFE007C00F1D3F1 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8736C6C52BFE007C00F1D3F1 /* ViewController.swift */; };
+		8736C6C92BFE007C00F1D3F1 /* Base in Resources */ = {isa = PBXBuildFile; fileRef = 8736C6C82BFE007C00F1D3F1 /* Base */; };
+		8736C6CB2BFE007E00F1D3F1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8736C6CA2BFE007E00F1D3F1 /* Assets.xcassets */; };
+		8736C6CE2BFE007E00F1D3F1 /* Base in Resources */ = {isa = PBXBuildFile; fileRef = 8736C6CD2BFE007E00F1D3F1 /* Base */; };
+		8736C6D92BFE026400F1D3F1 /* FirebaseAnalytics in Frameworks */ = {isa = PBXBuildFile; productRef = 8736C6D82BFE026400F1D3F1 /* FirebaseAnalytics */; };
+		8736C6DB2BFE026400F1D3F1 /* FirebaseAuth in Frameworks */ = {isa = PBXBuildFile; productRef = 8736C6DA2BFE026400F1D3F1 /* FirebaseAuth */; };
+		8736C6DD2BFE026400F1D3F1 /* FirebaseDatabase in Frameworks */ = {isa = PBXBuildFile; productRef = 8736C6DC2BFE026400F1D3F1 /* FirebaseDatabase */; };
+		8736C6DF2BFE026400F1D3F1 /* FirebaseFirestore in Frameworks */ = {isa = PBXBuildFile; productRef = 8736C6DE2BFE026400F1D3F1 /* FirebaseFirestore */; };
+		8736C6E12BFE026400F1D3F1 /* FirebaseStorage in Frameworks */ = {isa = PBXBuildFile; productRef = 8736C6E02BFE026400F1D3F1 /* FirebaseStorage */; };
+		87492D012C053993007D6086 /* RezervasyonViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87492D002C053993007D6086 /* RezervasyonViewController.swift */; };
+		87492D032C0539B3007D6086 /* RezervasyonTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87492D022C0539B3007D6086 /* RezervasyonTableViewCell.swift */; };
+		874C738F2C07DCBE0096DB3D /* seyahatTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 874C738E2C07DCBE0096DB3D /* seyahatTableViewCell.swift */; };
+		87EF5E702BFE091B001AEF90 /* HesabimViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87EF5E6F2BFE091B001AEF90 /* HesabimViewController.swift */; };
+		87EF5E722BFE0923001AEF90 /* AraViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87EF5E712BFE0923001AEF90 /* AraViewController.swift */; };
+		87EF5E742BFE0932001AEF90 /* SeyahatlerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87EF5E732BFE0932001AEF90 /* SeyahatlerViewController.swift */; };
+		87EF5E762BFE0ADD001AEF90 /* HesabimTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87EF5E752BFE0ADD001AEF90 /* HesabimTableViewCell.swift */; };
+		87EF5E782BFE0C9A001AEF90 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 87EF5E772BFE0C9A001AEF90 /* GoogleService-Info.plist */; };
+		87EF5E7A2BFE0D67001AEF90 /* KatiyOlViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87EF5E792BFE0D67001AEF90 /* KatiyOlViewController.swift */; };
+		87EF5E7D2BFE5B15001AEF90 /* BiletClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87EF5E7C2BFE5B15001AEF90 /* BiletClass.swift */; };
+		87EF5E802BFE5B3F001AEF90 /* UyeClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87EF5E7F2BFE5B3F001AEF90 /* UyeClass.swift */; };
+		87EF5E822BFE5B45001AEF90 /* UcusClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87EF5E812BFE5B45001AEF90 /* UcusClass.swift */; };
+		87EF5E852BFE5B67001AEF90 /* UcakClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87EF5E842BFE5B67001AEF90 /* UcakClass.swift */; };
+		87EF5E872BFE5B6F001AEF90 /* RezervasyonClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87EF5E862BFE5B6F001AEF90 /* RezervasyonClass.swift */; };
+		87EF5E892BFE5B7B001AEF90 /* OdemeClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87EF5E882BFE5B7B001AEF90 /* OdemeClass.swift */; };
+		87EF5E8B2BFE5D3B001AEF90 /* SecimViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87EF5E8A2BFE5D3B001AEF90 /* SecimViewController.swift */; };
+		87EF5E8D2BFE5E0B001AEF90 /* SecimTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87EF5E8C2BFE5E0B001AEF90 /* SecimTableViewCell.swift */; };
+		87EF5E8F2BFE5EC7001AEF90 /* KoltukSecViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87EF5E8E2BFE5EC7001AEF90 /* KoltukSecViewController.swift */; };
+		87EF5E912BFE6120001AEF90 /* BiletSatinAlViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87EF5E902BFE6120001AEF90 /* BiletSatinAlViewController.swift */; };
+		87EF5E952BFE64A6001AEF90 /* havayolu.json in Resources */ = {isa = PBXBuildFile; fileRef = 87EF5E942BFE64A6001AEF90 /* havayolu.json */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		8736C6BE2BFE007C00F1D3F1 /* TravelApplication2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TravelApplication2.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		8736C6C12BFE007C00F1D3F1 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		8736C6C32BFE007C00F1D3F1 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		8736C6C52BFE007C00F1D3F1 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		8736C6C82BFE007C00F1D3F1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		8736C6CA2BFE007E00F1D3F1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		8736C6CD2BFE007E00F1D3F1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		8736C6CF2BFE007E00F1D3F1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		87492D002C053993007D6086 /* RezervasyonViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RezervasyonViewController.swift; sourceTree = "<group>"; };
+		87492D022C0539B3007D6086 /* RezervasyonTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RezervasyonTableViewCell.swift; sourceTree = "<group>"; };
+		874C738E2C07DCBE0096DB3D /* seyahatTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = seyahatTableViewCell.swift; sourceTree = "<group>"; };
+		87EF5E6F2BFE091B001AEF90 /* HesabimViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HesabimViewController.swift; sourceTree = "<group>"; };
+		87EF5E712BFE0923001AEF90 /* AraViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AraViewController.swift; sourceTree = "<group>"; };
+		87EF5E732BFE0932001AEF90 /* SeyahatlerViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SeyahatlerViewController.swift; sourceTree = "<group>"; };
+		87EF5E752BFE0ADD001AEF90 /* HesabimTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HesabimTableViewCell.swift; sourceTree = "<group>"; };
+		87EF5E772BFE0C9A001AEF90 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
+		87EF5E792BFE0D67001AEF90 /* KatiyOlViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KatiyOlViewController.swift; sourceTree = "<group>"; };
+		87EF5E7C2BFE5B15001AEF90 /* BiletClass.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BiletClass.swift; sourceTree = "<group>"; };
+		87EF5E7F2BFE5B3F001AEF90 /* UyeClass.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UyeClass.swift; sourceTree = "<group>"; };
+		87EF5E812BFE5B45001AEF90 /* UcusClass.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UcusClass.swift; sourceTree = "<group>"; };
+		87EF5E842BFE5B67001AEF90 /* UcakClass.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UcakClass.swift; sourceTree = "<group>"; };
+		87EF5E862BFE5B6F001AEF90 /* RezervasyonClass.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RezervasyonClass.swift; sourceTree = "<group>"; };
+		87EF5E882BFE5B7B001AEF90 /* OdemeClass.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OdemeClass.swift; sourceTree = "<group>"; };
+		87EF5E8A2BFE5D3B001AEF90 /* SecimViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecimViewController.swift; sourceTree = "<group>"; };
+		87EF5E8C2BFE5E0B001AEF90 /* SecimTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecimTableViewCell.swift; sourceTree = "<group>"; };
+		87EF5E8E2BFE5EC7001AEF90 /* KoltukSecViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KoltukSecViewController.swift; sourceTree = "<group>"; };
+		87EF5E902BFE6120001AEF90 /* BiletSatinAlViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BiletSatinAlViewController.swift; sourceTree = "<group>"; };
+		87EF5E942BFE64A6001AEF90 /* havayolu.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = havayolu.json; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		8736C6BB2BFE007C00F1D3F1 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8736C6DD2BFE026400F1D3F1 /* FirebaseDatabase in Frameworks */,
+				8736C6DF2BFE026400F1D3F1 /* FirebaseFirestore in Frameworks */,
+				8736C6D92BFE026400F1D3F1 /* FirebaseAnalytics in Frameworks */,
+				8736C6E12BFE026400F1D3F1 /* FirebaseStorage in Frameworks */,
+				8736C6DB2BFE026400F1D3F1 /* FirebaseAuth in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		8736C6B52BFE007C00F1D3F1 = {
+			isa = PBXGroup;
+			children = (
+				8736C6C02BFE007C00F1D3F1 /* TravelApplication2 */,
+				8736C6BF2BFE007C00F1D3F1 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		8736C6BF2BFE007C00F1D3F1 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				8736C6BE2BFE007C00F1D3F1 /* TravelApplication2.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		8736C6C02BFE007C00F1D3F1 /* TravelApplication2 */ = {
+			isa = PBXGroup;
+			children = (
+				87EF5E7E2BFE5B1F001AEF90 /* View */,
+				87EF5E7B2BFE5B07001AEF90 /* Model */,
+				8736C6C72BFE007C00F1D3F1 /* Main.storyboard */,
+				8736C6CA2BFE007E00F1D3F1 /* Assets.xcassets */,
+				8736C6CC2BFE007E00F1D3F1 /* LaunchScreen.storyboard */,
+				87EF5E942BFE64A6001AEF90 /* havayolu.json */,
+				8736C6CF2BFE007E00F1D3F1 /* Info.plist */,
+				87EF5E772BFE0C9A001AEF90 /* GoogleService-Info.plist */,
+			);
+			path = TravelApplication2;
+			sourceTree = "<group>";
+		};
+		87EF5E7B2BFE5B07001AEF90 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				87EF5E7C2BFE5B15001AEF90 /* BiletClass.swift */,
+				87EF5E7F2BFE5B3F001AEF90 /* UyeClass.swift */,
+				87EF5E812BFE5B45001AEF90 /* UcusClass.swift */,
+				87EF5E842BFE5B67001AEF90 /* UcakClass.swift */,
+				87EF5E862BFE5B6F001AEF90 /* RezervasyonClass.swift */,
+				87EF5E882BFE5B7B001AEF90 /* OdemeClass.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		87EF5E7E2BFE5B1F001AEF90 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				8736C6C12BFE007C00F1D3F1 /* AppDelegate.swift */,
+				8736C6C32BFE007C00F1D3F1 /* SceneDelegate.swift */,
+				8736C6C52BFE007C00F1D3F1 /* ViewController.swift */,
+				87EF5E732BFE0932001AEF90 /* SeyahatlerViewController.swift */,
+				874C738E2C07DCBE0096DB3D /* seyahatTableViewCell.swift */,
+				87EF5E712BFE0923001AEF90 /* AraViewController.swift */,
+				87EF5E6F2BFE091B001AEF90 /* HesabimViewController.swift */,
+				87EF5E752BFE0ADD001AEF90 /* HesabimTableViewCell.swift */,
+				87EF5E792BFE0D67001AEF90 /* KatiyOlViewController.swift */,
+				87EF5E8A2BFE5D3B001AEF90 /* SecimViewController.swift */,
+				87EF5E8C2BFE5E0B001AEF90 /* SecimTableViewCell.swift */,
+				87EF5E8E2BFE5EC7001AEF90 /* KoltukSecViewController.swift */,
+				87492D002C053993007D6086 /* RezervasyonViewController.swift */,
+				87492D022C0539B3007D6086 /* RezervasyonTableViewCell.swift */,
+				87EF5E902BFE6120001AEF90 /* BiletSatinAlViewController.swift */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		8736C6BD2BFE007C00F1D3F1 /* TravelApplication2 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 8736C6D22BFE007E00F1D3F1 /* Build configuration list for PBXNativeTarget "TravelApplication2" */;
+			buildPhases = (
+				8736C6BA2BFE007C00F1D3F1 /* Sources */,
+				8736C6BB2BFE007C00F1D3F1 /* Frameworks */,
+				8736C6BC2BFE007C00F1D3F1 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = TravelApplication2;
+			packageProductDependencies = (
+				8736C6D82BFE026400F1D3F1 /* FirebaseAnalytics */,
+				8736C6DA2BFE026400F1D3F1 /* FirebaseAuth */,
+				8736C6DC2BFE026400F1D3F1 /* FirebaseDatabase */,
+				8736C6DE2BFE026400F1D3F1 /* FirebaseFirestore */,
+				8736C6E02BFE026400F1D3F1 /* FirebaseStorage */,
+			);
+			productName = TravelApplication2;
+			productReference = 8736C6BE2BFE007C00F1D3F1 /* TravelApplication2.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		8736C6B62BFE007C00F1D3F1 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1540;
+				LastUpgradeCheck = 1540;
+				TargetAttributes = {
+					8736C6BD2BFE007C00F1D3F1 = {
+						CreatedOnToolsVersion = 15.4;
+					};
+				};
+			};
+			buildConfigurationList = 8736C6B92BFE007C00F1D3F1 /* Build configuration list for PBXProject "TravelApplication2" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 8736C6B52BFE007C00F1D3F1;
+			packageReferences = (
+				8736C6D72BFE026400F1D3F1 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */,
+			);
+			productRefGroup = 8736C6BF2BFE007C00F1D3F1 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				8736C6BD2BFE007C00F1D3F1 /* TravelApplication2 */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		8736C6BC2BFE007C00F1D3F1 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8736C6CB2BFE007E00F1D3F1 /* Assets.xcassets in Resources */,
+				87EF5E782BFE0C9A001AEF90 /* GoogleService-Info.plist in Resources */,
+				8736C6CE2BFE007E00F1D3F1 /* Base in Resources */,
+				8736C6C92BFE007C00F1D3F1 /* Base in Resources */,
+				87EF5E952BFE64A6001AEF90 /* havayolu.json in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		8736C6BA2BFE007C00F1D3F1 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				87EF5E912BFE6120001AEF90 /* BiletSatinAlViewController.swift in Sources */,
+				874C738F2C07DCBE0096DB3D /* seyahatTableViewCell.swift in Sources */,
+				87EF5E762BFE0ADD001AEF90 /* HesabimTableViewCell.swift in Sources */,
+				87EF5E722BFE0923001AEF90 /* AraViewController.swift in Sources */,
+				87EF5E7A2BFE0D67001AEF90 /* KatiyOlViewController.swift in Sources */,
+				87492D032C0539B3007D6086 /* RezervasyonTableViewCell.swift in Sources */,
+				87EF5E7D2BFE5B15001AEF90 /* BiletClass.swift in Sources */,
+				8736C6C62BFE007C00F1D3F1 /* ViewController.swift in Sources */,
+				87EF5E872BFE5B6F001AEF90 /* RezervasyonClass.swift in Sources */,
+				87EF5E742BFE0932001AEF90 /* SeyahatlerViewController.swift in Sources */,
+				87EF5E8D2BFE5E0B001AEF90 /* SecimTableViewCell.swift in Sources */,
+				87EF5E892BFE5B7B001AEF90 /* OdemeClass.swift in Sources */,
+				8736C6C22BFE007C00F1D3F1 /* AppDelegate.swift in Sources */,
+				87EF5E702BFE091B001AEF90 /* HesabimViewController.swift in Sources */,
+				87EF5E8F2BFE5EC7001AEF90 /* KoltukSecViewController.swift in Sources */,
+				87EF5E852BFE5B67001AEF90 /* UcakClass.swift in Sources */,
+				87EF5E802BFE5B3F001AEF90 /* UyeClass.swift in Sources */,
+				87EF5E8B2BFE5D3B001AEF90 /* SecimViewController.swift in Sources */,
+				87EF5E822BFE5B45001AEF90 /* UcusClass.swift in Sources */,
+				87492D012C053993007D6086 /* RezervasyonViewController.swift in Sources */,
+				8736C6C42BFE007C00F1D3F1 /* SceneDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		8736C6C72BFE007C00F1D3F1 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				8736C6C82BFE007C00F1D3F1 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		8736C6CC2BFE007E00F1D3F1 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				8736C6CD2BFE007E00F1D3F1 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		8736C6D02BFE007E00F1D3F1 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.5;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		8736C6D12BFE007E00F1D3F1 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.5;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		8736C6D32BFE007E00F1D3F1 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 4K77DVXXUM;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = TravelApplication2/Info.plist;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.SelinayCeylan.TravelApplication2;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		8736C6D42BFE007E00F1D3F1 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 4K77DVXXUM;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = TravelApplication2/Info.plist;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.SelinayCeylan.TravelApplication2;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		8736C6B92BFE007C00F1D3F1 /* Build configuration list for PBXProject "TravelApplication2" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				8736C6D02BFE007E00F1D3F1 /* Debug */,
+				8736C6D12BFE007E00F1D3F1 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		8736C6D22BFE007E00F1D3F1 /* Build configuration list for PBXNativeTarget "TravelApplication2" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				8736C6D32BFE007E00F1D3F1 /* Debug */,
+				8736C6D42BFE007E00F1D3F1 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		8736C6D72BFE026400F1D3F1 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/firebase/firebase-ios-sdk.git";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 10.26.0;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		8736C6D82BFE026400F1D3F1 /* FirebaseAnalytics */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 8736C6D72BFE026400F1D3F1 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
+			productName = FirebaseAnalytics;
+		};
+		8736C6DA2BFE026400F1D3F1 /* FirebaseAuth */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 8736C6D72BFE026400F1D3F1 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
+			productName = FirebaseAuth;
+		};
+		8736C6DC2BFE026400F1D3F1 /* FirebaseDatabase */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 8736C6D72BFE026400F1D3F1 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
+			productName = FirebaseDatabase;
+		};
+		8736C6DE2BFE026400F1D3F1 /* FirebaseFirestore */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 8736C6D72BFE026400F1D3F1 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
+			productName = FirebaseFirestore;
+		};
+		8736C6E02BFE026400F1D3F1 /* FirebaseStorage */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 8736C6D72BFE026400F1D3F1 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
+			productName = FirebaseStorage;
+		};
+/* End XCSwiftPackageProductDependency section */
+	};
+	rootObject = 8736C6B62BFE007C00F1D3F1 /* Project object */;
+}

@@ -1,0 +1,5032 @@
+
+ { "Seferler": [
+  {
+    "PazartesiSeferleri": [
+      {
+
+
+        "Çanakkale-Trabzon": [
+          {
+            "saat": "05.00",
+            "ucusSuresi": "4.30 saat",
+            "ucakTipi": "Boeing777",
+            "fiyat": 2500
+          },
+
+          {
+            "saat": "12.30",
+            "ucusSuresi": "4.30 saat",
+            "ucakTipi": "Boeing777",
+            "fiyat": 2500
+          },
+
+          {
+            "saat": "19.15",
+            "ucusSuresi": "4.30 saat",
+            "ucakTipi": "Boeing777",
+            "fiyat": 2500
+          }
+
+        ],
+
+        "Trabzon-Çanakkale": [
+          {
+            "saat": "00.10",
+            "ucusSuresi": "4.30 saat",
+            "ucakTipi": "Boeing777",
+            "fiyat": 2500
+          },
+
+          {
+            "saat": "09.00",
+            "ucusSuresi": "4.30 saat",
+            "ucakTipi": "Boeing777",
+            "fiyat": 2500
+          },
+
+          {
+            "saat": "17.45",
+            "ucusSuresi": "4.30 saat",
+            "ucakTipi": "Boeing777",
+            "fiyat": 2500
+          }
+
+        ],
+
+
+
+
+        "İzmir-Ankara": [
+          {
+            "saat": "09.45",
+            "ucusSuresi": "1 saat 15 dakika",
+            "ucakTipi": "Airbus A380",
+            "fiyat": 4500
+
+          },
+
+          {
+            "saat": "10.15",
+            "ucusSuresi": "1 saat 15 dakika",
+            "ucakTipi": "Airbus A380",
+            "fiyat": 4500
+          },
+
+          {
+            "saat": "12.20",
+            "ucusSuresi": "1 saat 15 dakika",
+            "ucakTipi": "Airbus A380",
+            "fiyat": 4500
+          },
+
+          {
+            "saat": "14.00",
+            "ucusSuresi": "1 saat 15 dakika",
+            "ucakTipi": "Airbus A380",
+            "fiyat": 4500
+          },
+
+          {
+            "saat": "18.45",
+            "ucusSuresi": "1 saat 15 dakika",
+            "ucakTipi": "Airbus A380",
+            "fiyat": 4500
+          },
+
+          {
+            "saat": "20.50",
+            "ucusSuresi": "1 saat 15 dakika",
+            "ucakTipi": "Airbus A380",
+            "fiyat": 4500
+          }
+        ],
+
+        "Ankara-İzmir": [
+          {
+            "saat": "11.00",
+            "ucusSuresi": "1 saat 15 dakika",
+            "ucakTipi": "Airbus A380",
+            "fiyat": 4500
+          },
+
+          {
+            "saat": "12.55",
+            "ucusSuresi": "1 saat 15 dakika",
+            "ucakTipi": "Airbus A380",
+            "fiyat": 4500
+          },
+
+          {
+            "saat": "14.35",
+            "ucusSuresi": "1 saat 15 dakika",
+            "ucakTipi": "Airbus A380",
+            "fiyat": 4500
+          },
+
+          {
+            "saat": "16.40",
+            "ucusSuresi": "1 saat 15 dakika",
+            "ucakTipi": "Airbus A380",
+            "fiyat": 4500
+          },
+
+          {
+            "saat": "21.00",
+            "ucusSuresi": "1 saat 15 dakika",
+            "ucakTipi": "Airbus A380",
+            "fiyat": 4500
+          },
+
+          {
+            "saat": "23.15",
+            "ucusSuresi": "1 saat 15 dakika",
+            "ucakTipi": "Airbus A380",
+            "fiyat": 4500
+          }
+        ],
+
+
+
+
+
+
+        "İzmir-Çanakkale": [
+          {
+            "saat": "00.00",
+            "ucusSuresi": "40 dakika",
+            "ucakTipi": "Airbus A319",
+            "fiyat": 1900
+          },
+
+          {
+            "saat": "08.00",
+            "ucusSuresi": "40 dakika",
+            "ucakTipi": "Airbus A319",
+            "fiyat": 1900
+          },
+
+          {
+            "saat": "10.00",
+            "ucusSuresi": "40 dakika",
+            "ucakTipi": "Airbus A319",
+            "fiyat": 1900
+          },
+
+          {
+            "saat": "12.00",
+            "ucusSuresi": "40 dakika",
+            "ucakTipi": "Airbus A319",
+            "fiyat": 1900
+          },
+
+          {
+            "saat": "20.00",
+            "ucusSuresi": "40 dakika",
+            "ucakTipi": "Airbus A319",
+            "fiyat": 1900
+          },
+
+          {
+            "saat": "22.00",
+            "ucusSuresi": "40 dakika",
+            "ucakTipi": "Airbus A319",
+            "fiyat": 1900
+          }
+        ],
+
+
+        "Çanakkale-İzmir": [
+          {
+            "saat": "01.45",
+            "ucusSuresi": "40 dakika",
+            "ucakTipi": "Airbus A319",
+            "fiyat": 1900
+          },
+
+          {
+            "saat": "09.10",
+            "ucusSuresi": "40 dakika",
+            "ucakTipi": "Airbus A319",
+            "fiyat": 1900
+          },
+
+          {
+            "saat": "11.30",
+            "ucusSuresi": "40 dakika",
+            "ucakTipi": "Airbus A319",
+            "fiyat": 1900
+          },
+
+          {
+            "saat": "13.50",
+            "ucusSuresi": "40 dakika",
+            "ucakTipi": "Airbus A319",
+            "fiyat": 1900
+          },
+
+          {
+            "saat": "21.15",
+            "ucusSuresi": "40 dakika",
+            "ucakTipi": "Airbus A319",
+            "fiyat": 1900
+          },
+
+          {
+            "saat": "23.00",
+            "ucusSuresi": "40 dakika",
+            "ucakTipi": "Airbus A319",
+            "fiyat": 1900
+          }
+        ],
+
+        "Çanakkale-Ankara": [
+          {
+            "saat": "06.15",
+            "ucusSuresi": "1 saat 15 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 2200
+          },
+          {
+            "saat": "07.50",
+            "ucusSuresi": "1 saat 15 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 2200
+          },
+
+          {
+            "saat": "10.40",
+            "ucusSuresi": "1 saat 15 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 2200
+          },
+
+          {
+            "saat": "15.30",
+            "ucusSuresi": "1 saat 15 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 2200
+          },
+
+          {
+            "saat": "16.55",
+            "ucusSuresi": "1 saat 15 dakika",
+            "ucakTipi": "Boeing 787"
+          },
+
+          {
+            "saat": "19.05",
+            "ucusSuresi": "1 saat 15 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 2200
+          },
+
+          {
+            "saat": "23.59",
+            "ucusSuresi": "1 saat 15 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 2200
+          }
+
+
+        ],
+
+
+        "Ankara-Çanakkale": [
+          {
+            "saat": "04.45",
+            "ucusSuresi": "1 saat 15 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 2200
+          },
+          {
+            "saat": "08.50",
+            "ucusSuresi": "1 saat 15 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 2200
+          },
+
+          {
+            "saat": "09.20",
+            "ucusSuresi": "1 saat 15 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 2200
+          },
+
+          {
+            "saat": "12.40",
+            "ucusSuresi": "1 saat 15 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 2200
+          },
+
+          {
+            "saat": "15.55",
+            "ucusSuresi": "1 saat 15 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 2200
+          },
+
+          {
+            "saat": "18.05",
+            "ucusSuresi": "1 saat 15 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 2200
+          },
+
+          {
+            "saat": "22.00",
+            "ucusSuresi": "1 saat 15 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 2200
+          }
+
+
+        ],
+
+        "İstanbul-Gaziantep": [
+          {
+            "saat": "05.00",
+            "ucusSuresi": "1 saat 45 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 3525
+          },
+
+          {
+            "saat": "09.35",
+            "ucusSuresi": "1 saat 45 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 3525
+          },
+
+          {
+            "saat": "12.00",
+            "ucusSuresi": "1 saat 45 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 3525
+          },
+
+          {
+            "saat": "14.00",
+            "ucusSuresi": "1 saat 45 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 3525
+          },
+
+          {
+            "saat": "22.00",
+            "ucusSuresi": "1 saat 45 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 3525
+          }
+        ],
+
+        "Gaziantep-İstanbul": [
+          {
+            "saat": "01.05",
+            "ucusSuresi": "1 saat 45 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 3525
+          },
+
+          {
+            "saat": "05.50",
+            "ucusSuresi": "1 saat 45 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 3525
+          },
+
+          {
+            "saat": "13.55",
+            "ucusSuresi": "1 saat 45 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 3525
+          },
+
+          {
+            "saat": "17.15",
+            "ucusSuresi": "1 saat 45 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 3525
+          },
+
+          {
+            "saat": "22.59",
+            "ucusSuresi": "1 saat 45 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 3525
+          }
+        ],
+
+        "Ankara-Gaziantep": [
+          {
+            "saat": "00.00",
+            "ucusSuresi": "1 saat 15 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1970
+          },
+
+          {
+            "saat": "08.25",
+            "ucusSuresi": "1 saat 15 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1970
+          },
+
+          {
+            "saat": "18.30",
+            "ucusSuresi": "1 saat 15 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1970
+          },
+
+          {
+            "saat": "23.00",
+            "ucusSuresi": "1 saat 15 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1970
+          }
+
+
+        ],
+
+        "Gaziantep-Ankara": [
+          {
+            "saat": "01.15",
+            "ucusSuresi": "1 saat 15 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1970
+          },
+
+          {
+            "saat": "09.30",
+            "ucusSuresi": "1 saat 15 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1970
+          },
+
+          {
+            "saat": "17.35",
+            "ucusSuresi": "1 saat 15 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1970
+          },
+
+          {
+            "saat": "22.55",
+            "ucusSuresi": "1 saat 15 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1970
+          }
+
+
+        ],
+
+        "İstanbul-Antalya": [
+
+          {
+            "saat": "01.30",
+            "ucusSuresi": "1 saat 20 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 2045
+          },
+
+          {
+            "saat": "10.00",
+            "ucusSuresi": "1 saat 20 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 2045
+          },
+
+          {
+            "saat": "11.00",
+            "ucusSuresi": "1 saat 20 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 2045
+          },
+          {
+            "saat": "12.00",
+            "ucusSuresi": "1 saat 20 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 2045
+          },
+
+          {
+            "saat": "13.45",
+            "ucusSuresi": "1 saat 20 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 2045
+          },
+
+          {
+            "saat": "15.15",
+            "ucusSuresi": "1 saat 20 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 2045
+          },
+          {
+            "saat": "17.00",
+            "ucusSuresi": "1 saat 20 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 2045
+          },
+          {
+            "saat": "19.45",
+            "ucusSuresi": "1 saat 20 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 2045
+          },
+          {
+            "saat": "21.05",
+            "ucusSuresi": "1 saat 20 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 2045
+          },
+
+          {
+            "saat": "23.55",
+            "ucusSuresi": "1 saat 20 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 2045
+          }
+
+        ],
+
+
+        "Antalya-İstanbul": [
+
+          {
+            "saat": "02.45",
+            "ucusSuresi": "1 saat 20 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 2045
+          },
+
+          {
+            "saat": "11.00",
+            "ucusSuresi": "1 saat 20 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 2045
+          },
+
+          {
+            "saat": "13.40",
+            "ucusSuresi": "1 saat 20 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 2045
+          },
+          {
+            "saat": "14.25",
+            "ucusSuresi": "1 saat 20 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 2045
+          },
+
+          {
+            "saat": "15.20",
+            "ucusSuresi": "1 saat 20 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 2045
+          },
+
+          {
+            "saat": "17.10",
+            "ucusSuresi": "1 saat 20 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 2045
+          },
+          {
+            "saat": "19.30",
+            "ucusSuresi": "1 saat 20 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 2045
+          },
+          {
+            "saat": "20.40",
+            "ucusSuresi": "1 saat 20 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 2045
+          },
+          {
+            "saat": "22.55",
+            "ucusSuresi": "1 saat 20 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 2045
+          }
+
+        ],
+
+        "Ankara-Antalya": [
+          {
+            "saat": "06.30",
+            "ucusSuresi": "1 saat 10 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 940
+          },
+          {
+            "saat": "10.30",
+            "ucusSuresi": "1 saat 10 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 940
+          },
+          {
+            "saat": "13.10",
+            "ucusSuresi": "1 saat 10 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 940
+          },
+          {
+            "saat": "15.25",
+            "ucusSuresi": "1 saat 10 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 940
+          },
+
+          {
+            "saat": "19.10",
+            "ucusSuresi": "1 saat 10 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 940
+          },
+          {
+            "saat": "20.40",
+            "ucusSuresi": "1 saat 10 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 940
+          }
+
+        ],
+
+        "Antalya-Ankara": [
+          {
+            "saat": "08.05",
+            "ucusSuresi": "1 saat 10 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 940
+          },
+          {
+            "saat": "10.45",
+            "ucusSuresi": "1 saat 10 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 940
+          },
+          {
+            "saat": "14.10",
+            "ucusSuresi": "1 saat 10 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 940
+          },
+          {
+            "saat": "18.15",
+            "ucusSuresi": "1 saat 10 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 940
+          },
+
+          {
+            "saat": "20.00",
+            "ucusSuresi": "1 saat 10 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 940
+          },
+          {
+            "saat": "21.20",
+            "ucusSuresi": "1 saat 10 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 940
+          }
+
+        ],
+
+        "Ankara-İstanbul": [
+          {
+            "saat": "04.25",
+            "ucusSuresi": "1 saat 10 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1900
+          },
+          {
+            "saat": "07.05",
+            "ucusSuresi": "1 saat 10 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1900
+          },
+          {
+            "saat": "13.40",
+            "ucusSuresi": "1 saat 10 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1900
+          },
+          {
+            "saat": "15.15",
+            "ucusSuresi": "1 saat 10 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1900
+          },
+          {
+            "saat": "20.35",
+            "ucusSuresi": "1 saat 10 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1900
+          },
+          {
+            "saat": "23.25",
+            "ucusSuresi": "1 saat 10 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1900
+          }
+        ],
+        "İstanbul-Ankara": [
+          {
+            "saat": "02.20",
+            "ucusSuresi": "1 saat 10 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1900
+          },
+          {
+            "saat": "06.00",
+            "ucusSuresi": "1 saat 10 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1900
+          },
+          {
+            "saat": "14.50",
+            "ucusSuresi": "1 saat 10 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1900
+          },
+          {
+            "saat": "16.05",
+            "ucusSuresi": "1 saat 10 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1900
+          },
+          {
+            "saat": "21.55",
+            "ucusSuresi": "1 saat 10 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1900
+          },
+          {
+            "saat": "23.00",
+            "ucusSuresi": "1 saat 10 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1900
+          }
+        ],
+
+        "İstanbul-İzmir": [
+          {
+            "saat": "03.00",
+            "ucusSuresi": "1 saat 05 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1959
+          },
+          {
+            "saat": "08.50",
+            "ucusSuresi": "1 saat 05 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1959
+          },
+
+          {
+            "saat": "12.00",
+            "ucusSuresi": "1 saat 05 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1959
+          },
+          {
+            "saat": "16.05",
+            "ucusSuresi": "1 saat 05 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1959
+          },
+          {
+            "saat": "18.10",
+            "ucusSuresi": "1 saat 05 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1959
+          },
+          {
+            "saat": "20.00",
+            "ucusSuresi": "1 saat 05 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1959
+          }
+        ],
+
+
+        "İzmir-İstanbul": [
+          {
+            "saat": "01.50",
+            "ucusSuresi": "1 saat 05 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1959
+          },
+          {
+            "saat": "08.50",
+            "ucusSuresi": "1 saat 05 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1959
+          },
+
+          {
+            "saat": "12.25",
+            "ucusSuresi": "1 saat 05 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1959
+          },
+          {
+            "saat": "15.45",
+            "ucusSuresi": "1 saat 05 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1959
+          },
+          {
+            "saat": "19.10",
+            "ucusSuresi": "1 saat 05 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1959
+          },
+          {
+            "saat": "21.55",
+            "ucusSuresi": "1 saat 05 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1959
+          }
+        ]
+
+      }
+    ],
+
+    "SalıSeferleri": [
+      {
+        "İzmir-Ankara": [
+          {
+            "saat": "09.45",
+            "ucusSuresi": "1 saat 15 dakika",
+            "ucakTipi": "Airbus A380",
+            "fiyat": 4500
+
+          },
+
+          {
+            "saat": "10.15",
+            "ucusSuresi": "1 saat 15 dakika",
+            "ucakTipi": "Airbus A380",
+            "fiyat": 4500
+          },
+
+          {
+            "saat": "12.20",
+            "ucusSuresi": "1 saat 15 dakika",
+            "ucakTipi": "Airbus A380",
+            "fiyat": 4500
+          },
+
+          {
+            "saat": "14.00",
+            "ucusSuresi": "1 saat 15 dakika",
+            "ucakTipi": "Airbus A380",
+            "fiyat": 4500
+          },
+
+          {
+            "saat": "18.45",
+            "ucusSuresi": "1 saat 15 dakika",
+            "ucakTipi": "Airbus A380",
+            "fiyat": 4500
+          },
+
+          {
+            "saat": "20.50",
+            "ucusSuresi": "1 saat 15 dakika",
+            "ucakTipi": "Airbus A380",
+            "fiyat": 4500
+          }
+        ],
+
+        "Ankara-İzmir": [
+          {
+            "saat": "11.00",
+            "ucusSuresi": "1 saat 15 dakika",
+            "ucakTipi": "Airbus A380",
+            "fiyat": 4500
+          },
+
+          {
+            "saat": "12.55",
+            "ucusSuresi": "1 saat 15 dakika",
+            "ucakTipi": "Airbus A380",
+            "fiyat": 4500
+          },
+
+          {
+            "saat": "14.35",
+            "ucusSuresi": "1 saat 15 dakika",
+            "ucakTipi": "Airbus A380",
+            "fiyat": 4500
+          },
+
+          {
+            "saat": "16.40",
+            "ucusSuresi": "1 saat 15 dakika",
+            "ucakTipi": "Airbus A380",
+            "fiyat": 4500
+          },
+
+          {
+            "saat": "21.00",
+            "ucusSuresi": "1 saat 15 dakika",
+            "ucakTipi": "Airbus A380",
+            "fiyat": 4500
+          },
+
+          {
+            "saat": "23.15",
+            "ucusSuresi": "1 saat 15 dakika",
+            "ucakTipi": "Airbus A380",
+            "fiyat": 4500
+          }
+        ],
+
+        "İstanbul-Gaziantep": [
+          {
+            "saat": "05.00",
+            "ucusSuresi": "1 saat 45 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 3525
+          },
+
+          {
+            "saat": "09.35",
+            "ucusSuresi": "1 saat 45 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 3525
+          },
+
+          {
+            "saat": "12.00",
+            "ucusSuresi": "1 saat 45 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 3525
+          },
+
+          {
+            "saat": "14.00",
+            "ucusSuresi": "1 saat 45 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 3525
+          },
+
+          {
+            "saat": "22.00",
+            "ucusSuresi": "1 saat 45 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 3525
+          }
+        ],
+
+        "Gaziantep-İstanbul": [
+          {
+            "saat": "01.05",
+            "ucusSuresi": "1 saat 45 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 3525
+          },
+
+          {
+            "saat": "05.50",
+            "ucusSuresi": "1 saat 45 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 3525
+          },
+
+          {
+            "saat": "13.55",
+            "ucusSuresi": "1 saat 45 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 3525
+          },
+
+          {
+            "saat": "17.15",
+            "ucusSuresi": "1 saat 45 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 3525
+          },
+
+          {
+            "saat": "22.59",
+            "ucusSuresi": "1 saat 45 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 3525
+          }
+        ],
+
+        "Ankara-Gaziantep": [
+          {
+            "saat": "00.00",
+            "ucusSuresi": "1 saat 15 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1970
+          },
+
+          {
+            "saat": "08.25",
+            "ucusSuresi": "1 saat 15 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1970
+          },
+
+          {
+            "saat": "18.30",
+            "ucusSuresi": "1 saat 15 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1970
+          },
+
+          {
+            "saat": "23.00",
+            "ucusSuresi": "1 saat 15 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1970
+          }
+
+
+        ],
+
+        "Gaziantep-Ankara": [
+          {
+            "saat": "01.15",
+            "ucusSuresi": "1 saat 15 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1970
+          },
+
+          {
+            "saat": "09.30",
+            "ucusSuresi": "1 saat 15 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1970
+          },
+
+          {
+            "saat": "17.35",
+            "ucusSuresi": "1 saat 15 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1970
+          },
+
+          {
+            "saat": "22.55",
+            "ucusSuresi": "1 saat 15 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1970
+          }
+
+
+        ],
+
+        "İstanbul-Antalya": [
+
+          {
+            "saat": "01.30",
+            "ucusSuresi": "1 saat 20 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 2045
+          },
+
+          {
+            "saat": "10.00",
+            "ucusSuresi": "1 saat 20 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 2045
+          },
+
+          {
+            "saat": "11.00",
+            "ucusSuresi": "1 saat 20 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 2045
+          },
+          {
+            "saat": "12.00",
+            "ucusSuresi": "1 saat 20 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 2045
+          },
+
+          {
+            "saat": "13.45",
+            "ucusSuresi": "1 saat 20 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 2045
+          },
+
+          {
+            "saat": "15.15",
+            "ucusSuresi": "1 saat 20 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 2045
+          },
+          {
+            "saat": "17.00",
+            "ucusSuresi": "1 saat 20 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 2045
+          },
+          {
+            "saat": "19.45",
+            "ucusSuresi": "1 saat 20 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 2045
+          },
+          {
+            "saat": "21.05",
+            "ucusSuresi": "1 saat 20 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 2045
+          },
+
+          {
+            "saat": "23.55",
+            "ucusSuresi": "1 saat 20 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 2045
+          }
+
+        ],
+
+
+        "Antalya-İstanbul": [
+
+          {
+            "saat": "02.45",
+            "ucusSuresi": "1 saat 20 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 2045
+          },
+
+          {
+            "saat": "11.00",
+            "ucusSuresi": "1 saat 20 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 2045
+          },
+
+          {
+            "saat": "13.40",
+            "ucusSuresi": "1 saat 20 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 2045
+          },
+          {
+            "saat": "14.25",
+            "ucusSuresi": "1 saat 20 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 2045
+          },
+
+          {
+            "saat": "15.20",
+            "ucusSuresi": "1 saat 20 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 2045
+          },
+
+          {
+            "saat": "17.10",
+            "ucusSuresi": "1 saat 20 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 2045
+          },
+          {
+            "saat": "19.30",
+            "ucusSuresi": "1 saat 20 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 2045
+          },
+          {
+            "saat": "20.40",
+            "ucusSuresi": "1 saat 20 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 2045
+          },
+          {
+            "saat": "22.55",
+            "ucusSuresi": "1 saat 20 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 2045
+          }
+
+        ],
+
+        "Ankara-Antalya": [
+          {
+            "saat": "06.30",
+            "ucusSuresi": "1 saat 10 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 940
+          },
+          {
+            "saat": "10.30",
+            "ucusSuresi": "1 saat 10 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 940
+          },
+          {
+            "saat": "13.10",
+            "ucusSuresi": "1 saat 10 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 940
+          },
+          {
+            "saat": "15.25",
+            "ucusSuresi": "1 saat 10 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 940
+          },
+
+          {
+            "saat": "19.10",
+            "ucusSuresi": "1 saat 10 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 940
+          },
+          {
+            "saat": "20.40",
+            "ucusSuresi": "1 saat 10 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 940
+          }
+
+        ],
+
+        "Antalya-Ankara": [
+          {
+            "saat": "08.05",
+            "ucusSuresi": "1 saat 10 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 940
+          },
+          {
+            "saat": "10.45",
+            "ucusSuresi": "1 saat 10 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 940
+          },
+          {
+            "saat": "14.10",
+            "ucusSuresi": "1 saat 10 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 940
+          },
+          {
+            "saat": "18.15",
+            "ucusSuresi": "1 saat 10 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 940
+          },
+
+          {
+            "saat": "20.00",
+            "ucusSuresi": "1 saat 10 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 940
+          },
+          {
+            "saat": "21.20",
+            "ucusSuresi": "1 saat 10 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 940
+          }
+
+        ],
+
+        "Ankara-İstanbul": [
+          {
+            "saat": "04.25",
+            "ucusSuresi": "1 saat 10 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1900
+          },
+          {
+            "saat": "07.05",
+            "ucusSuresi": "1 saat 10 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1900
+          },
+          {
+            "saat": "13.40",
+            "ucusSuresi": "1 saat 10 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1900
+          },
+          {
+            "saat": "15.15",
+            "ucusSuresi": "1 saat 10 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1900
+          },
+          {
+            "saat": "20.35",
+            "ucusSuresi": "1 saat 10 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1900
+          },
+          {
+            "saat": "23.25",
+            "ucusSuresi": "1 saat 10 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1900
+          }
+        ],
+        "İstanbul-Ankara": [
+          {
+            "saat": "02.20",
+            "ucusSuresi": "1 saat 10 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1900
+          },
+          {
+            "saat": "06.00",
+            "ucusSuresi": "1 saat 10 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1900
+          },
+          {
+            "saat": "14.50",
+            "ucusSuresi": "1 saat 10 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1900
+          },
+          {
+            "saat": "16.05",
+            "ucusSuresi": "1 saat 10 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1900
+          },
+          {
+            "saat": "21.55",
+            "ucusSuresi": "1 saat 10 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1900
+          },
+          {
+            "saat": "23.00",
+            "ucusSuresi": "1 saat 10 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1900
+          }
+        ],
+
+        "İstanbul-İzmir": [
+          {
+            "saat": "03.00",
+            "ucusSuresi": "1 saat 05 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1959
+          },
+          {
+            "saat": "08.50",
+            "ucusSuresi": "1 saat 05 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1959
+          },
+
+          {
+            "saat": "12.00",
+            "ucusSuresi": "1 saat 05 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1959
+          },
+          {
+            "saat": "16.05",
+            "ucusSuresi": "1 saat 05 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1959
+          },
+          {
+            "saat": "18.10",
+            "ucusSuresi": "1 saat 05 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1959
+          },
+          {
+            "saat": "20.00",
+            "ucusSuresi": "1 saat 05 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1959
+          }
+        ],
+
+
+        "İzmir-İstanbul": [
+          {
+            "saat": "01.50",
+            "ucusSuresi": "1 saat 05 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1959
+          },
+          {
+            "saat": "08.50",
+            "ucusSuresi": "1 saat 05 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1959
+          },
+
+          {
+            "saat": "12.25",
+            "ucusSuresi": "1 saat 05 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1959
+          },
+          {
+            "saat": "15.45",
+            "ucusSuresi": "1 saat 05 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1959
+          },
+          {
+            "saat": "19.10",
+            "ucusSuresi": "1 saat 05 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1959
+          },
+          {
+            "saat": "21.55",
+            "ucusSuresi": "1 saat 05 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1959
+          }
+        ]
+      }
+    ],
+
+    "ÇarşambaSeferleri": [
+      {
+        "İzmir-Ankara": [
+          {
+            "saat": "09.45",
+            "ucusSuresi": "1 saat 15 dakika",
+            "ucakTipi": "Airbus A380",
+            "fiyat": 4500
+
+          },
+
+          {
+            "saat": "10.15",
+            "ucusSuresi": "1 saat 15 dakika",
+            "ucakTipi": "Airbus A380",
+            "fiyat": 4500
+          },
+
+          {
+            "saat": "12.20",
+            "ucusSuresi": "1 saat 15 dakika",
+            "ucakTipi": "Airbus A380",
+            "fiyat": 4500
+          },
+
+          {
+            "saat": "14.00",
+            "ucusSuresi": "1 saat 15 dakika",
+            "ucakTipi": "Airbus A380",
+            "fiyat": 4500
+          },
+
+          {
+            "saat": "18.45",
+            "ucusSuresi": "1 saat 15 dakika",
+            "ucakTipi": "Airbus A380",
+            "fiyat": 4500
+          },
+
+          {
+            "saat": "20.50",
+            "ucusSuresi": "1 saat 15 dakika",
+            "ucakTipi": "Airbus A380",
+            "fiyat": 4500
+          }
+        ],
+
+        "Ankara-İzmir": [
+          {
+            "saat": "11.00",
+            "ucusSuresi": "1 saat 15 dakika",
+            "ucakTipi": "Airbus A380",
+            "fiyat": 4500
+          },
+
+          {
+            "saat": "12.55",
+            "ucusSuresi": "1 saat 15 dakika",
+            "ucakTipi": "Airbus A380",
+            "fiyat": 4500
+          },
+
+          {
+            "saat": "14.35",
+            "ucusSuresi": "1 saat 15 dakika",
+            "ucakTipi": "Airbus A380",
+            "fiyat": 4500
+          },
+
+          {
+            "saat": "16.40",
+            "ucusSuresi": "1 saat 15 dakika",
+            "ucakTipi": "Airbus A380",
+            "fiyat": 4500
+          },
+
+          {
+            "saat": "21.00",
+            "ucusSuresi": "1 saat 15 dakika",
+            "ucakTipi": "Airbus A380",
+            "fiyat": 4500
+          },
+
+          {
+            "saat": "23.15",
+            "ucusSuresi": "1 saat 15 dakika",
+            "ucakTipi": "Airbus A380",
+            "fiyat": 4500
+          }
+        ],
+
+        "İstanbul-Gaziantep": [
+          {
+            "saat": "05.00",
+            "ucusSuresi": "1 saat 45 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 3525
+          },
+
+          {
+            "saat": "09.35",
+            "ucusSuresi": "1 saat 45 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 3525
+          },
+
+          {
+            "saat": "12.00",
+            "ucusSuresi": "1 saat 45 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 3525
+          },
+
+          {
+            "saat": "14.00",
+            "ucusSuresi": "1 saat 45 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 3525
+          },
+
+          {
+            "saat": "22.00",
+            "ucusSuresi": "1 saat 45 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 3525
+          }
+        ],
+
+        "Gaziantep-İstanbul": [
+          {
+            "saat": "01.05",
+            "ucusSuresi": "1 saat 45 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 3525
+          },
+
+          {
+            "saat": "05.50",
+            "ucusSuresi": "1 saat 45 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 3525
+          },
+
+          {
+            "saat": "13.55",
+            "ucusSuresi": "1 saat 45 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 3525
+          },
+
+          {
+            "saat": "17.15",
+            "ucusSuresi": "1 saat 45 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 3525
+          },
+
+          {
+            "saat": "22.59",
+            "ucusSuresi": "1 saat 45 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 3525
+          }
+        ],
+
+        "Ankara-Gaziantep": [
+          {
+            "saat": "00.00",
+            "ucusSuresi": "1 saat 15 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1970
+          },
+
+          {
+            "saat": "08.25",
+            "ucusSuresi": "1 saat 15 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1970
+          },
+
+          {
+            "saat": "18.30",
+            "ucusSuresi": "1 saat 15 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1970
+          },
+
+          {
+            "saat": "23.00",
+            "ucusSuresi": "1 saat 15 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1970
+          }
+
+
+        ],
+
+        "Gaziantep-Ankara": [
+          {
+            "saat": "01.15",
+            "ucusSuresi": "1 saat 15 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1970
+          },
+
+          {
+            "saat": "09.30",
+            "ucusSuresi": "1 saat 15 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1970
+          },
+
+          {
+            "saat": "17.35",
+            "ucusSuresi": "1 saat 15 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1970
+          },
+
+          {
+            "saat": "22.55",
+            "ucusSuresi": "1 saat 15 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1970
+          }
+
+
+        ],
+
+        "İstanbul-Antalya": [
+
+          {
+            "saat": "01.30",
+            "ucusSuresi": "1 saat 20 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 2045
+          },
+
+          {
+            "saat": "10.00",
+            "ucusSuresi": "1 saat 20 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 2045
+          },
+
+          {
+            "saat": "11.00",
+            "ucusSuresi": "1 saat 20 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 2045
+          },
+          {
+            "saat": "12.00",
+            "ucusSuresi": "1 saat 20 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 2045
+          },
+
+          {
+            "saat": "13.45",
+            "ucusSuresi": "1 saat 20 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 2045
+          },
+
+          {
+            "saat": "15.15",
+            "ucusSuresi": "1 saat 20 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 2045
+          },
+          {
+            "saat": "17.00",
+            "ucusSuresi": "1 saat 20 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 2045
+          },
+          {
+            "saat": "19.45",
+            "ucusSuresi": "1 saat 20 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 2045
+          },
+          {
+            "saat": "21.05",
+            "ucusSuresi": "1 saat 20 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 2045
+          },
+
+          {
+            "saat": "23.55",
+            "ucusSuresi": "1 saat 20 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 2045
+          }
+
+        ],
+
+
+        "Antalya-İstanbul": [
+
+          {
+            "saat": "02.45",
+            "ucusSuresi": "1 saat 20 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 2045
+          },
+
+          {
+            "saat": "11.00",
+            "ucusSuresi": "1 saat 20 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 2045
+          },
+
+          {
+            "saat": "13.40",
+            "ucusSuresi": "1 saat 20 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 2045
+          },
+          {
+            "saat": "14.25",
+            "ucusSuresi": "1 saat 20 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 2045
+          },
+
+          {
+            "saat": "15.20",
+            "ucusSuresi": "1 saat 20 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 2045
+          },
+
+          {
+            "saat": "17.10",
+            "ucusSuresi": "1 saat 20 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 2045
+          },
+          {
+            "saat": "19.30",
+            "ucusSuresi": "1 saat 20 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 2045
+          },
+          {
+            "saat": "20.40",
+            "ucusSuresi": "1 saat 20 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 2045
+          },
+          {
+            "saat": "22.55",
+            "ucusSuresi": "1 saat 20 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 2045
+          }
+
+        ],
+
+        "Ankara-Antalya": [
+          {
+            "saat": "06.30",
+            "ucusSuresi": "1 saat 10 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 940
+          },
+          {
+            "saat": "10.30",
+            "ucusSuresi": "1 saat 10 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 940
+          },
+          {
+            "saat": "13.10",
+            "ucusSuresi": "1 saat 10 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 940
+          },
+          {
+            "saat": "15.25",
+            "ucusSuresi": "1 saat 10 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 940
+          },
+
+          {
+            "saat": "19.10",
+            "ucusSuresi": "1 saat 10 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 940
+          },
+          {
+            "saat": "20.40",
+            "ucusSuresi": "1 saat 10 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 940
+          }
+
+        ],
+
+        "Antalya-Ankara": [
+          {
+            "saat": "08.05",
+            "ucusSuresi": "1 saat 10 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 940
+          },
+          {
+            "saat": "10.45",
+            "ucusSuresi": "1 saat 10 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 940
+          },
+          {
+            "saat": "14.10",
+            "ucusSuresi": "1 saat 10 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 940
+          },
+          {
+            "saat": "18.15",
+            "ucusSuresi": "1 saat 10 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 940
+          },
+
+          {
+            "saat": "20.00",
+            "ucusSuresi": "1 saat 10 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 940
+          },
+          {
+            "saat": "21.20",
+            "ucusSuresi": "1 saat 10 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 940
+          }
+
+        ],
+
+        "Ankara-İstanbul": [
+          {
+            "saat": "04.25",
+            "ucusSuresi": "1 saat 10 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1900
+          },
+          {
+            "saat": "07.05",
+            "ucusSuresi": "1 saat 10 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1900
+          },
+          {
+            "saat": "13.40",
+            "ucusSuresi": "1 saat 10 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1900
+          },
+          {
+            "saat": "15.15",
+            "ucusSuresi": "1 saat 10 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1900
+          },
+          {
+            "saat": "20.35",
+            "ucusSuresi": "1 saat 10 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1900
+          },
+          {
+            "saat": "23.25",
+            "ucusSuresi": "1 saat 10 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1900
+          }
+        ],
+        "İstanbul-Ankara": [
+          {
+            "saat": "02.20",
+            "ucusSuresi": "1 saat 10 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1900
+          },
+          {
+            "saat": "06.00",
+            "ucusSuresi": "1 saat 10 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1900
+          },
+          {
+            "saat": "14.50",
+            "ucusSuresi": "1 saat 10 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1900
+          },
+          {
+            "saat": "16.05",
+            "ucusSuresi": "1 saat 10 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1900
+          },
+          {
+            "saat": "21.55",
+            "ucusSuresi": "1 saat 10 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1900
+          },
+          {
+            "saat": "23.00",
+            "ucusSuresi": "1 saat 10 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1900
+          }
+        ],
+
+        "İstanbul-İzmir": [
+          {
+            "saat": "03.00",
+            "ucusSuresi": "1 saat 05 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1959
+          },
+          {
+            "saat": "08.50",
+            "ucusSuresi": "1 saat 05 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1959
+          },
+
+          {
+            "saat": "12.00",
+            "ucusSuresi": "1 saat 05 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1959
+          },
+          {
+            "saat": "16.05",
+            "ucusSuresi": "1 saat 05 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1959
+          },
+          {
+            "saat": "18.10",
+            "ucusSuresi": "1 saat 05 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1959
+          },
+          {
+            "saat": "20.00",
+            "ucusSuresi": "1 saat 05 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1959
+          }
+        ],
+
+
+        "İzmir-İstanbul": [
+          {
+            "saat": "01.50",
+            "ucusSuresi": "1 saat 05 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1959
+          },
+          {
+            "saat": "08.50",
+            "ucusSuresi": "1 saat 05 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1959
+          },
+
+          {
+            "saat": "12.25",
+            "ucusSuresi": "1 saat 05 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1959
+          },
+          {
+            "saat": "15.45",
+            "ucusSuresi": "1 saat 05 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1959
+          },
+          {
+            "saat": "19.10",
+            "ucusSuresi": "1 saat 05 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1959
+          },
+          {
+            "saat": "21.55",
+            "ucusSuresi": "1 saat 05 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1959
+          }
+        ],
+
+        "Van-İstanbul": [
+          {
+            "saat": "09.55",
+            "ucusSuresi": "2 saat 15 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 3200
+          },
+
+          {
+            "saat": "12.00",
+            "ucusSuresi": "2 saat 15 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 3200
+          },
+          {
+            "saat": "16.30",
+            "ucusSuresi": "2 saat 15 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 3200
+          },
+          {
+            "saat": "21.25",
+            "ucusSuresi": "2 saat 15 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 3200
+          }
+
+
+        ],
+
+        "İstanbul-Van": [
+          {
+            "saat": "07.45",
+            "ucusSuresi": "2 saat 15 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 3200
+          },
+
+          {
+            "saat": "11.15",
+            "ucusSuresi": "2 saat 15 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 3200
+          },
+          {
+            "saat": "18.00",
+            "ucusSuresi": "2 saat 15 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 3200
+          },
+          {
+            "saat": "22.25",
+            "ucusSuresi": "2 saat 15 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 3200
+          }
+
+        ],
+
+        "Ankara-Van": [
+          {
+            "saat": "04.35",
+            "ucusSuresi": "1 saat 35 dakika",
+            "ucakTipi": "Boeing 767",
+            "fiyat": 2444
+          },
+          {
+            "saat": "07.05",
+            "ucusSuresi": "1 saat 35 dakika",
+            "ucakTipi": "Boeing 767",
+            "fiyat": 2444
+          },
+          {
+            "saat": "10.10",
+            "ucusSuresi": "1 saat 35 dakika",
+            "ucakTipi": "Boeing 767",
+            "fiyat": 2444
+          },
+          
+          {
+            "saat": "12.05",
+            "ucusSuresi": "1 saat 35 dakika",
+            "ucakTipi": "Boeing 767",
+            "fiyat": 2444
+          },
+          {
+            "saat": "14.40",
+            "ucusSuresi": "1 saat 35 dakika",
+            "ucakTipi": "Boeing 767",
+            "fiyat": 2444
+          },
+          {
+            "saat": "18.50",
+            "ucusSuresi": "1 saat 35 dakika",
+            "ucakTipi": "Boeing 767",
+            "fiyat": 2444
+          },
+          {
+            "saat": "22.05",
+            "ucusSuresi": "1 saat 35 dakika",
+            "ucakTipi": "Boeing 767",
+            "fiyat": 2444
+          }
+        ],
+
+        "Van-Ankara": [
+          {
+            "saat": "03.30",
+            "ucusSuresi": "1 saat 35 dakika",
+            "ucakTipi": "Boeing 767",
+            "fiyat": 2444
+          },
+          {
+            "saat": "07.55",
+            "ucusSuresi": "1 saat 35 dakika",
+            "ucakTipi": "Boeing 767",
+            "fiyat": 2444
+          },
+          {
+            "saat": "11.09",
+            "ucusSuresi": "1 saat 35 dakika",
+            "ucakTipi": "Boeing 767",
+            "fiyat": 2444
+          },
+          
+          {
+            "saat": "13.10",
+            "ucusSuresi": "1 saat 35 dakika",
+            "ucakTipi": "Boeing 767",
+            "fiyat": 2444
+          },
+          {
+            "saat": "15.45",
+            "ucusSuresi": "1 saat 35 dakika",
+            "ucakTipi": "Boeing 767",
+            "fiyat": 2444
+          },
+          {
+            "saat": "19.19",
+            "ucusSuresi": "1 saat 35 dakika",
+            "ucakTipi": "Boeing 767",
+            "fiyat": 2444
+          },
+          {
+            "saat": "22.59",
+            "ucusSuresi": "1 saat 35 dakika",
+            "ucakTipi": "Boeing 767",
+            "fiyat": 2444
+          }
+        ]
+
+
+
+
+
+      }
+
+      
+    ],
+
+    "PerşembeSeferleri": [
+      {
+        "İzmir-Ankara": [
+          {
+            "saat": "09.45",
+            "ucusSuresi": "1 saat 15 dakika",
+            "ucakTipi": "Airbus A380",
+            "fiyat": 4500
+
+          },
+
+          {
+            "saat": "10.15",
+            "ucusSuresi": "1 saat 15 dakika",
+            "ucakTipi": "Airbus A380",
+            "fiyat": 4500
+          },
+
+          {
+            "saat": "12.20",
+            "ucusSuresi": "1 saat 15 dakika",
+            "ucakTipi": "Airbus A380",
+            "fiyat": 4500
+          },
+
+          {
+            "saat": "14.00",
+            "ucusSuresi": "1 saat 15 dakika",
+            "ucakTipi": "Airbus A380",
+            "fiyat": 4500
+          },
+
+          {
+            "saat": "18.45",
+            "ucusSuresi": "1 saat 15 dakika",
+            "ucakTipi": "Airbus A380",
+            "fiyat": 4500
+          },
+
+          {
+            "saat": "20.50",
+            "ucusSuresi": "1 saat 15 dakika",
+            "ucakTipi": "Airbus A380",
+            "fiyat": 4500
+          }
+        ],
+
+        "Ankara-İzmir": [
+          {
+            "saat": "11.00",
+            "ucusSuresi": "1 saat 15 dakika",
+            "ucakTipi": "Airbus A380",
+            "fiyat": 4500
+          },
+
+          {
+            "saat": "12.55",
+            "ucusSuresi": "1 saat 15 dakika",
+            "ucakTipi": "Airbus A380",
+            "fiyat": 4500
+          },
+
+          {
+            "saat": "14.35",
+            "ucusSuresi": "1 saat 15 dakika",
+            "ucakTipi": "Airbus A380",
+            "fiyat": 4500
+          },
+
+          {
+            "saat": "16.40",
+            "ucusSuresi": "1 saat 15 dakika",
+            "ucakTipi": "Airbus A380",
+            "fiyat": 4500
+          },
+
+          {
+            "saat": "21.00",
+            "ucusSuresi": "1 saat 15 dakika",
+            "ucakTipi": "Airbus A380",
+            "fiyat": 4500
+          },
+
+          {
+            "saat": "23.15",
+            "ucusSuresi": "1 saat 15 dakika",
+            "ucakTipi": "Airbus A380",
+            "fiyat": 4500
+          }
+        ],
+
+        "İstanbul-Gaziantep": [
+          {
+            "saat": "05.00",
+            "ucusSuresi": "1 saat 45 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 3525
+          },
+
+          {
+            "saat": "09.35",
+            "ucusSuresi": "1 saat 45 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 3525
+          },
+
+          {
+            "saat": "12.00",
+            "ucusSuresi": "1 saat 45 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 3525
+          },
+
+          {
+            "saat": "14.00",
+            "ucusSuresi": "1 saat 45 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 3525
+          },
+
+          {
+            "saat": "22.00",
+            "ucusSuresi": "1 saat 45 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 3525
+          }
+        ],
+
+        "Gaziantep-İstanbul": [
+          {
+            "saat": "01.05",
+            "ucusSuresi": "1 saat 45 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 3525
+          },
+
+          {
+            "saat": "05.50",
+            "ucusSuresi": "1 saat 45 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 3525
+          },
+
+          {
+            "saat": "13.55",
+            "ucusSuresi": "1 saat 45 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 3525
+          },
+
+          {
+            "saat": "17.15",
+            "ucusSuresi": "1 saat 45 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 3525
+          },
+
+          {
+            "saat": "22.59",
+            "ucusSuresi": "1 saat 45 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 3525
+          }
+        ],
+
+        "Ankara-Gaziantep": [
+          {
+            "saat": "00.00",
+            "ucusSuresi": "1 saat 15 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1970
+          },
+
+          {
+            "saat": "08.25",
+            "ucusSuresi": "1 saat 15 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1970
+          },
+
+          {
+            "saat": "18.30",
+            "ucusSuresi": "1 saat 15 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1970
+          },
+
+          {
+            "saat": "23.00",
+            "ucusSuresi": "1 saat 15 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1970
+          }
+
+
+        ],
+
+        "Gaziantep-Ankara": [
+          {
+            "saat": "01.15",
+            "ucusSuresi": "1 saat 15 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1970
+          },
+
+          {
+            "saat": "09.30",
+            "ucusSuresi": "1 saat 15 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1970
+          },
+
+          {
+            "saat": "17.35",
+            "ucusSuresi": "1 saat 15 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1970
+          },
+
+          {
+            "saat": "22.55",
+            "ucusSuresi": "1 saat 15 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1970
+          }
+
+
+        ],
+
+        "İstanbul-Antalya": [
+
+          {
+            "saat": "01.30",
+            "ucusSuresi": "1 saat 20 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 2045
+          },
+
+          {
+            "saat": "10.00",
+            "ucusSuresi": "1 saat 20 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 2045
+          },
+
+          {
+            "saat": "11.00",
+            "ucusSuresi": "1 saat 20 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 2045
+          },
+          {
+            "saat": "12.00",
+            "ucusSuresi": "1 saat 20 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 2045
+          },
+
+          {
+            "saat": "13.45",
+            "ucusSuresi": "1 saat 20 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 2045
+          },
+
+          {
+            "saat": "15.15",
+            "ucusSuresi": "1 saat 20 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 2045
+          },
+          {
+            "saat": "17.00",
+            "ucusSuresi": "1 saat 20 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 2045
+          },
+          {
+            "saat": "19.45",
+            "ucusSuresi": "1 saat 20 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 2045
+          },
+          {
+            "saat": "21.05",
+            "ucusSuresi": "1 saat 20 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 2045
+          },
+
+          {
+            "saat": "23.55",
+            "ucusSuresi": "1 saat 20 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 2045
+          }
+
+        ],
+
+
+        "Antalya-İstanbul": [
+
+          {
+            "saat": "02.45",
+            "ucusSuresi": "1 saat 20 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 2045
+          },
+
+          {
+            "saat": "11.00",
+            "ucusSuresi": "1 saat 20 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 2045
+          },
+
+          {
+            "saat": "13.40",
+            "ucusSuresi": "1 saat 20 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 2045
+          },
+          {
+            "saat": "14.25",
+            "ucusSuresi": "1 saat 20 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 2045
+          },
+
+          {
+            "saat": "15.20",
+            "ucusSuresi": "1 saat 20 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 2045
+          },
+
+          {
+            "saat": "17.10",
+            "ucusSuresi": "1 saat 20 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 2045
+          },
+          {
+            "saat": "19.30",
+            "ucusSuresi": "1 saat 20 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 2045
+          },
+          {
+            "saat": "20.40",
+            "ucusSuresi": "1 saat 20 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 2045
+          },
+          {
+            "saat": "22.55",
+            "ucusSuresi": "1 saat 20 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 2045
+          }
+
+        ],
+
+        "Ankara-Antalya": [
+          {
+            "saat": "06.30",
+            "ucusSuresi": "1 saat 10 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 940
+          },
+          {
+            "saat": "10.30",
+            "ucusSuresi": "1 saat 10 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 940
+          },
+          {
+            "saat": "13.10",
+            "ucusSuresi": "1 saat 10 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 940
+          },
+          {
+            "saat": "15.25",
+            "ucusSuresi": "1 saat 10 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 940
+          },
+
+          {
+            "saat": "19.10",
+            "ucusSuresi": "1 saat 10 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 940
+          },
+          {
+            "saat": "20.40",
+            "ucusSuresi": "1 saat 10 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 940
+          }
+
+        ],
+
+        "Antalya-Ankara": [
+          {
+            "saat": "08.05",
+            "ucusSuresi": "1 saat 10 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 940
+          },
+          {
+            "saat": "10.45",
+            "ucusSuresi": "1 saat 10 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 940
+          },
+          {
+            "saat": "14.10",
+            "ucusSuresi": "1 saat 10 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 940
+          },
+          {
+            "saat": "18.15",
+            "ucusSuresi": "1 saat 10 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 940
+          },
+
+          {
+            "saat": "20.00",
+            "ucusSuresi": "1 saat 10 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 940
+          },
+          {
+            "saat": "21.20",
+            "ucusSuresi": "1 saat 10 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 940
+          }
+
+        ],
+
+        "Ankara-İstanbul": [
+          {
+            "saat": "04.25",
+            "ucusSuresi": "1 saat 10 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1900
+          },
+          {
+            "saat": "07.05",
+            "ucusSuresi": "1 saat 10 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1900
+          },
+          {
+            "saat": "13.40",
+            "ucusSuresi": "1 saat 10 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1900
+          },
+          {
+            "saat": "15.15",
+            "ucusSuresi": "1 saat 10 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1900
+          },
+          {
+            "saat": "20.35",
+            "ucusSuresi": "1 saat 10 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1900
+          },
+          {
+            "saat": "23.25",
+            "ucusSuresi": "1 saat 10 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1900
+          }
+        ],
+        "İstanbul-Ankara": [
+          {
+            "saat": "02.20",
+            "ucusSuresi": "1 saat 10 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1900
+          },
+          {
+            "saat": "06.00",
+            "ucusSuresi": "1 saat 10 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1900
+          },
+          {
+            "saat": "14.50",
+            "ucusSuresi": "1 saat 10 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1900
+          },
+          {
+            "saat": "16.05",
+            "ucusSuresi": "1 saat 10 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1900
+          },
+          {
+            "saat": "21.55",
+            "ucusSuresi": "1 saat 10 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1900
+          },
+          {
+            "saat": "23.00",
+            "ucusSuresi": "1 saat 10 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1900
+          }
+        ],
+
+        "İstanbul-İzmir": [
+          {
+            "saat": "03.00",
+            "ucusSuresi": "1 saat 05 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1959
+          },
+          {
+            "saat": "08.50",
+            "ucusSuresi": "1 saat 05 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1959
+          },
+
+          {
+            "saat": "12.00",
+            "ucusSuresi": "1 saat 05 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1959
+          },
+          {
+            "saat": "16.05",
+            "ucusSuresi": "1 saat 05 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1959
+          },
+          {
+            "saat": "18.10",
+            "ucusSuresi": "1 saat 05 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1959
+          },
+          {
+            "saat": "20.00",
+            "ucusSuresi": "1 saat 05 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1959
+          }
+        ],
+
+
+        "İzmir-İstanbul": [
+          {
+            "saat": "01.50",
+            "ucusSuresi": "1 saat 05 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1959
+          },
+          {
+            "saat": "08.50",
+            "ucusSuresi": "1 saat 05 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1959
+          },
+
+          {
+            "saat": "12.25",
+            "ucusSuresi": "1 saat 05 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1959
+          },
+          {
+            "saat": "15.45",
+            "ucusSuresi": "1 saat 05 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1959
+          },
+          {
+            "saat": "19.10",
+            "ucusSuresi": "1 saat 05 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1959
+          },
+          {
+            "saat": "21.55",
+            "ucusSuresi": "1 saat 05 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1959
+          }
+        ]
+      }
+    ],
+
+    "CumaSeferleri": [
+      {
+        "Çanakkale-Trabzon": [
+          {
+            "saat": "05.00",
+            "ucusSuresi": "4.30 saat",
+            "ucakTipi": "Boeing777",
+            "fiyat": 2500
+          },
+
+          {
+            "saat": "12.30",
+            "ucusSuresi": "4.30 saat",
+            "ucakTipi": "Boeing777",
+            "fiyat": 2500
+          },
+
+          {
+            "saat": "19.15",
+            "ucusSuresi": "4.30 saat",
+            "ucakTipi": "Boeing777",
+            "fiyat": 2500
+          }
+
+        ],
+
+        "Trabzon-Çanakkale": [
+          {
+            "saat": "00.10",
+            "ucusSuresi": "4.30 saat",
+            "ucakTipi": "Boeing777",
+            "fiyat": 2500
+          },
+
+          {
+            "saat": "09.00",
+            "ucusSuresi": "4.30 saat",
+            "ucakTipi": "Boeing777",
+            "fiyat": 2500
+          },
+
+          {
+            "saat": "17.45",
+            "ucusSuresi": "4.30 saat",
+            "ucakTipi": "Boeing777",
+            "fiyat": 2500
+          }
+
+        ],
+
+
+
+
+        "İzmir-Ankara": [
+          {
+            "saat": "09.45",
+            "ucusSuresi": "1 saat 15 dakika",
+            "ucakTipi": "Airbus A380",
+            "fiyat": 4500
+
+          },
+
+          {
+            "saat": "10.15",
+            "ucusSuresi": "1 saat 15 dakika",
+            "ucakTipi": "Airbus A380",
+            "fiyat": 4500
+          },
+
+          {
+            "saat": "12.20",
+            "ucusSuresi": "1 saat 15 dakika",
+            "ucakTipi": "Airbus A380",
+            "fiyat": 4500
+          },
+
+          {
+            "saat": "14.00",
+            "ucusSuresi": "1 saat 15 dakika",
+            "ucakTipi": "Airbus A380",
+            "fiyat": 4500
+          },
+
+          {
+            "saat": "18.45",
+            "ucusSuresi": "1 saat 15 dakika",
+            "ucakTipi": "Airbus A380",
+            "fiyat": 4500
+          },
+
+          {
+            "saat": "20.50",
+            "ucusSuresi": "1 saat 15 dakika",
+            "ucakTipi": "Airbus A380",
+            "fiyat": 4500
+          }
+        ],
+
+        "Ankara-İzmir": [
+          {
+            "saat": "11.00",
+            "ucusSuresi": "1 saat 15 dakika",
+            "ucakTipi": "Airbus A380",
+            "fiyat": 4500
+          },
+
+          {
+            "saat": "12.55",
+            "ucusSuresi": "1 saat 15 dakika",
+            "ucakTipi": "Airbus A380",
+            "fiyat": 4500
+          },
+
+          {
+            "saat": "14.35",
+            "ucusSuresi": "1 saat 15 dakika",
+            "ucakTipi": "Airbus A380",
+            "fiyat": 4500
+          },
+
+          {
+            "saat": "16.40",
+            "ucusSuresi": "1 saat 15 dakika",
+            "ucakTipi": "Airbus A380",
+            "fiyat": 4500
+          },
+
+          {
+            "saat": "21.00",
+            "ucusSuresi": "1 saat 15 dakika",
+            "ucakTipi": "Airbus A380",
+            "fiyat": 4500
+          },
+
+          {
+            "saat": "23.15",
+            "ucusSuresi": "1 saat 15 dakika",
+            "ucakTipi": "Airbus A380",
+            "fiyat": 4500
+          }
+        ],
+
+
+
+
+
+
+        "İzmir-Çanakkale": [
+          {
+            "saat": "00.00",
+            "ucusSuresi": "40 dakika",
+            "ucakTipi": "Airbus A319",
+            "fiyat": 1900
+          },
+
+          {
+            "saat": "08.00",
+            "ucusSuresi": "40 dakika",
+            "ucakTipi": "Airbus A319",
+            "fiyat": 1900
+          },
+
+          {
+            "saat": "10.00",
+            "ucusSuresi": "40 dakika",
+            "ucakTipi": "Airbus A319",
+            "fiyat": 1900
+          },
+
+          {
+            "saat": "12.00",
+            "ucusSuresi": "40 dakika",
+            "ucakTipi": "Airbus A319",
+            "fiyat": 1900
+          },
+
+          {
+            "saat": "20.00",
+            "ucusSuresi": "40 dakika",
+            "ucakTipi": "Airbus A319",
+            "fiyat": 1900
+          },
+
+          {
+            "saat": "22.00",
+            "ucusSuresi": "40 dakika",
+            "ucakTipi": "Airbus A319",
+            "fiyat": 1900
+          }
+        ],
+
+
+        "Çanakkale-İzmir": [
+          {
+            "saat": "01.45",
+            "ucusSuresi": "40 dakika",
+            "ucakTipi": "Airbus A319",
+            "fiyat": 1900
+          },
+
+          {
+            "saat": "09.10",
+            "ucusSuresi": "40 dakika",
+            "ucakTipi": "Airbus A319",
+            "fiyat": 1900
+          },
+
+          {
+            "saat": "11.30",
+            "ucusSuresi": "40 dakika",
+            "ucakTipi": "Airbus A319",
+            "fiyat": 1900
+          },
+
+          {
+            "saat": "13.50",
+            "ucusSuresi": "40 dakika",
+            "ucakTipi": "Airbus A319",
+            "fiyat": 1900
+          },
+
+          {
+            "saat": "21.15",
+            "ucusSuresi": "40 dakika",
+            "ucakTipi": "Airbus A319",
+            "fiyat": 1900
+          },
+
+          {
+            "saat": "23.00",
+            "ucusSuresi": "40 dakika",
+            "ucakTipi": "Airbus A319",
+            "fiyat": 1900
+          }
+        ],
+
+        "Çanakkale-Ankara": [
+          {
+            "saat": "06.15",
+            "ucusSuresi": "1 saat 15 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 2200
+          },
+          {
+            "saat": "07.50",
+            "ucusSuresi": "1 saat 15 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 2200
+          },
+
+          {
+            "saat": "10.40",
+            "ucusSuresi": "1 saat 15 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 2200
+          },
+
+          {
+            "saat": "15.30",
+            "ucusSuresi": "1 saat 15 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 2200
+          },
+
+          {
+            "saat": "16.55",
+            "ucusSuresi": "1 saat 15 dakika",
+            "ucakTipi": "Boeing 787"
+          },
+
+          {
+            "saat": "19.05",
+            "ucusSuresi": "1 saat 15 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 2200
+          },
+
+          {
+            "saat": "23.59",
+            "ucusSuresi": "1 saat 15 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 2200
+          }
+
+
+        ],
+
+
+        "Ankara-Çanakkale": [
+          {
+            "saat": "04.45",
+            "ucusSuresi": "1 saat 15 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 2200
+          },
+          {
+            "saat": "08.50",
+            "ucusSuresi": "1 saat 15 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 2200
+          },
+
+          {
+            "saat": "09.20",
+            "ucusSuresi": "1 saat 15 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 2200
+          },
+
+          {
+            "saat": "12.40",
+            "ucusSuresi": "1 saat 15 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 2200
+          },
+
+          {
+            "saat": "15.55",
+            "ucusSuresi": "1 saat 15 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 2200
+          },
+
+          {
+            "saat": "18.05",
+            "ucusSuresi": "1 saat 15 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 2200
+          },
+
+          {
+            "saat": "22.00",
+            "ucusSuresi": "1 saat 15 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 2200
+          }
+
+
+        ],
+
+        "İstanbul-Gaziantep": [
+          {
+            "saat": "05.00",
+            "ucusSuresi": "1 saat 45 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 3525
+          },
+
+          {
+            "saat": "09.35",
+            "ucusSuresi": "1 saat 45 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 3525
+          },
+
+          {
+            "saat": "12.00",
+            "ucusSuresi": "1 saat 45 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 3525
+          },
+
+          {
+            "saat": "14.00",
+            "ucusSuresi": "1 saat 45 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 3525
+          },
+
+          {
+            "saat": "22.00",
+            "ucusSuresi": "1 saat 45 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 3525
+          }
+        ],
+
+        "Gaziantep-İstanbul": [
+          {
+            "saat": "01.05",
+            "ucusSuresi": "1 saat 45 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 3525
+          },
+
+          {
+            "saat": "05.50",
+            "ucusSuresi": "1 saat 45 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 3525
+          },
+
+          {
+            "saat": "13.55",
+            "ucusSuresi": "1 saat 45 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 3525
+          },
+
+          {
+            "saat": "17.15",
+            "ucusSuresi": "1 saat 45 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 3525
+          },
+
+          {
+            "saat": "22.59",
+            "ucusSuresi": "1 saat 45 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 3525
+          }
+        ],
+
+        "Ankara-Gaziantep": [
+          {
+            "saat": "00.00",
+            "ucusSuresi": "1 saat 15 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1970
+          },
+
+          {
+            "saat": "08.25",
+            "ucusSuresi": "1 saat 15 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1970
+          },
+
+          {
+            "saat": "18.30",
+            "ucusSuresi": "1 saat 15 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1970
+          },
+
+          {
+            "saat": "23.00",
+            "ucusSuresi": "1 saat 15 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1970
+          }
+
+
+        ],
+
+        "Gaziantep-Ankara": [
+          {
+            "saat": "01.15",
+            "ucusSuresi": "1 saat 15 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1970
+          },
+
+          {
+            "saat": "09.30",
+            "ucusSuresi": "1 saat 15 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1970
+          },
+
+          {
+            "saat": "17.35",
+            "ucusSuresi": "1 saat 15 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1970
+          },
+
+          {
+            "saat": "22.55",
+            "ucusSuresi": "1 saat 15 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1970
+          }
+
+
+        ],
+
+        "İstanbul-Antalya": [
+
+          {
+            "saat": "01.30",
+            "ucusSuresi": "1 saat 20 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 2045
+          },
+
+          {
+            "saat": "10.00",
+            "ucusSuresi": "1 saat 20 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 2045
+          },
+
+          {
+            "saat": "11.00",
+            "ucusSuresi": "1 saat 20 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 2045
+          },
+          {
+            "saat": "12.00",
+            "ucusSuresi": "1 saat 20 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 2045
+          },
+
+          {
+            "saat": "13.45",
+            "ucusSuresi": "1 saat 20 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 2045
+          },
+
+          {
+            "saat": "15.15",
+            "ucusSuresi": "1 saat 20 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 2045
+          },
+          {
+            "saat": "17.00",
+            "ucusSuresi": "1 saat 20 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 2045
+          },
+          {
+            "saat": "19.45",
+            "ucusSuresi": "1 saat 20 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 2045
+          },
+          {
+            "saat": "21.05",
+            "ucusSuresi": "1 saat 20 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 2045
+          },
+
+          {
+            "saat": "23.55",
+            "ucusSuresi": "1 saat 20 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 2045
+          }
+
+        ],
+
+
+        "Antalya-İstanbul": [
+
+          {
+            "saat": "02.45",
+            "ucusSuresi": "1 saat 20 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 2045
+          },
+
+          {
+            "saat": "11.00",
+            "ucusSuresi": "1 saat 20 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 2045
+          },
+
+          {
+            "saat": "13.40",
+            "ucusSuresi": "1 saat 20 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 2045
+          },
+          {
+            "saat": "14.25",
+            "ucusSuresi": "1 saat 20 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 2045
+          },
+
+          {
+            "saat": "15.20",
+            "ucusSuresi": "1 saat 20 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 2045
+          },
+
+          {
+            "saat": "17.10",
+            "ucusSuresi": "1 saat 20 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 2045
+          },
+          {
+            "saat": "19.30",
+            "ucusSuresi": "1 saat 20 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 2045
+          },
+          {
+            "saat": "20.40",
+            "ucusSuresi": "1 saat 20 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 2045
+          },
+          {
+            "saat": "22.55",
+            "ucusSuresi": "1 saat 20 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 2045
+          }
+
+        ],
+
+        "Ankara-Antalya": [
+          {
+            "saat": "06.30",
+            "ucusSuresi": "1 saat 10 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 940
+          },
+          {
+            "saat": "10.30",
+            "ucusSuresi": "1 saat 10 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 940
+          },
+          {
+            "saat": "13.10",
+            "ucusSuresi": "1 saat 10 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 940
+          },
+          {
+            "saat": "15.25",
+            "ucusSuresi": "1 saat 10 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 940
+          },
+
+          {
+            "saat": "19.10",
+            "ucusSuresi": "1 saat 10 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 940
+          },
+          {
+            "saat": "20.40",
+            "ucusSuresi": "1 saat 10 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 940
+          }
+
+        ],
+
+        "Antalya-Ankara": [
+          {
+            "saat": "08.05",
+            "ucusSuresi": "1 saat 10 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 940
+          },
+          {
+            "saat": "10.45",
+            "ucusSuresi": "1 saat 10 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 940
+          },
+          {
+            "saat": "14.10",
+            "ucusSuresi": "1 saat 10 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 940
+          },
+          {
+            "saat": "18.15",
+            "ucusSuresi": "1 saat 10 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 940
+          },
+
+          {
+            "saat": "20.00",
+            "ucusSuresi": "1 saat 10 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 940
+          },
+          {
+            "saat": "21.20",
+            "ucusSuresi": "1 saat 10 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 940
+          }
+
+        ],
+
+        "Ankara-İstanbul": [
+          {
+            "saat": "04.25",
+            "ucusSuresi": "1 saat 10 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1900
+          },
+          {
+            "saat": "07.05",
+            "ucusSuresi": "1 saat 10 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1900
+          },
+          {
+            "saat": "13.40",
+            "ucusSuresi": "1 saat 10 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1900
+          },
+          {
+            "saat": "15.15",
+            "ucusSuresi": "1 saat 10 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1900
+          },
+          {
+            "saat": "20.35",
+            "ucusSuresi": "1 saat 10 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1900
+          },
+          {
+            "saat": "23.25",
+            "ucusSuresi": "1 saat 10 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1900
+          }
+        ],
+        "İstanbul-Ankara": [
+          {
+            "saat": "02.20",
+            "ucusSuresi": "1 saat 10 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1900
+          },
+          {
+            "saat": "06.00",
+            "ucusSuresi": "1 saat 10 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1900
+          },
+          {
+            "saat": "14.50",
+            "ucusSuresi": "1 saat 10 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1900
+          },
+          {
+            "saat": "16.05",
+            "ucusSuresi": "1 saat 10 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1900
+          },
+          {
+            "saat": "21.55",
+            "ucusSuresi": "1 saat 10 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1900
+          },
+          {
+            "saat": "23.00",
+            "ucusSuresi": "1 saat 10 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1900
+          }
+        ],
+
+        "İstanbul-İzmir": [
+          {
+            "saat": "03.00",
+            "ucusSuresi": "1 saat 05 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1959
+          },
+          {
+            "saat": "08.50",
+            "ucusSuresi": "1 saat 05 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1959
+          },
+
+          {
+            "saat": "12.00",
+            "ucusSuresi": "1 saat 05 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1959
+          },
+          {
+            "saat": "16.05",
+            "ucusSuresi": "1 saat 05 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1959
+          },
+          {
+            "saat": "18.10",
+            "ucusSuresi": "1 saat 05 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1959
+          },
+          {
+            "saat": "20.00",
+            "ucusSuresi": "1 saat 05 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1959
+          }
+        ],
+
+
+        "İzmir-İstanbul": [
+          {
+            "saat": "01.50",
+            "ucusSuresi": "1 saat 05 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1959
+          },
+          {
+            "saat": "08.50",
+            "ucusSuresi": "1 saat 05 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1959
+          },
+
+          {
+            "saat": "12.25",
+            "ucusSuresi": "1 saat 05 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1959
+          },
+          {
+            "saat": "15.45",
+            "ucusSuresi": "1 saat 05 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1959
+          },
+          {
+            "saat": "19.10",
+            "ucusSuresi": "1 saat 05 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1959
+          },
+          {
+            "saat": "21.55",
+            "ucusSuresi": "1 saat 05 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1959
+          }
+        ],
+
+        "İstanbul-Trabzon": [
+          {
+            "saat": "07.00",
+            "ucusSuresi": "1 saat 45 dakika",
+            "ucakTipi": "Airbus A380",
+            "fiyat": 1799.99
+          },
+          {
+            "saat": "13.50",
+            "ucusSuresi": "1 saat 45 dakika",
+            "ucakTipi": "Airbus A380",
+            "fiyat": 1799.99
+          },
+          {
+            "saat": "20.30",
+            "ucusSuresi": "1 saat 45 dakika",
+            "ucakTipi": "Airbus A380",
+            "fiyat": 1799.99
+          },
+          {
+            "saat": "23.00",
+            "ucusSuresi": "1 saat 45 dakika",
+            "ucakTipi": "Airbus A380",
+            "fiyat": 1799.99
+          }
+
+        ],
+
+        "Trabzon-İstanbul": [
+          {
+            "saat": "05.00",
+            "ucusSuresi": "1 saat 45 dakika",
+            "ucakTipi": "Airbus A380",
+            "fiyat": 1799.99
+          },
+          {
+            "saat": "11.40",
+            "ucusSuresi": "1 saat 45 dakika",
+            "ucakTipi": "Airbus A380",
+            "fiyat": 1799.99
+          },
+          {
+            "saat": "14.30",
+            "ucusSuresi": "1 saat 45 dakika",
+            "ucakTipi": "Airbus A380",
+            "fiyat": 1799.99
+          },
+          {
+            "saat": "19.35",
+            "ucusSuresi": "1 saat 45 dakika",
+            "ucakTipi": "Airbus A380",
+            "fiyat": 1799.99
+          },
+          {
+            "saat": "21.05",
+            "ucusSuresi": "1 saat 45 dakika",
+            "ucakTipi": "Airbus A380",
+            "fiyat": 1799.99
+          },
+          {
+            "saat": "22.05",
+            "ucusSuresi": "1 saat 45 dakika",
+            "ucakTipi": "Airbus A380",
+            "fiyat": 1799.99
+          }
+
+        ],
+
+
+        "Trabzon-Antalya": [
+          {
+            "saat": "11.05",
+            "ucusSuresi": "2 saat",
+            "ucakTipi": "Airbus A380",
+            "fiyat": 1688.60
+          },
+          {
+            "saat": "16.59",
+            "ucusSuresi": "2 saat",
+            "ucakTipi": "Airbus A380",
+            "fiyat": 1688.60
+          },
+          {
+            "saat": "22.10",
+            "ucusSuresi": "2 saat",
+            "ucakTipi": "Airbus A380",
+            "fiyat": 1688.60
+          }
+
+        ],
+
+        "Antalya-Trabzon": [
+          {
+            "saat": "12.40",
+            "ucusSuresi": "2 saat",
+            "ucakTipi": "Airbus A380",
+            "fiyat": 1688.60
+          },
+          {
+            "saat": "18.05",
+            "ucusSuresi": "2 saat",
+            "ucakTipi": "Airbus A380",
+            "fiyat": 1688.60
+          },
+          {
+            "saat": "22.45",
+            "ucusSuresi": "2 saat",
+            "ucakTipi": "Airbus A380",
+            "fiyat": 1688.60
+          }
+
+        ]
+
+
+
+
+      }
+    ],
+
+    "CumartesiSeferleri": [
+      {
+        "İzmir-Ankara": [
+          {
+            "saat": "09.45",
+            "ucusSuresi": "1 saat 15 dakika",
+            "ucakTipi": "Airbus A380",
+            "fiyat": 4500
+
+          },
+
+          {
+            "saat": "10.15",
+            "ucusSuresi": "1 saat 15 dakika",
+            "ucakTipi": "Airbus A380",
+            "fiyat": 4500
+          },
+
+          {
+            "saat": "12.20",
+            "ucusSuresi": "1 saat 15 dakika",
+            "ucakTipi": "Airbus A380",
+            "fiyat": 4500
+          },
+
+          {
+            "saat": "14.00",
+            "ucusSuresi": "1 saat 15 dakika",
+            "ucakTipi": "Airbus A380",
+            "fiyat": 4500
+          },
+
+          {
+            "saat": "18.45",
+            "ucusSuresi": "1 saat 15 dakika",
+            "ucakTipi": "Airbus A380",
+            "fiyat": 4500
+          },
+
+          {
+            "saat": "20.50",
+            "ucusSuresi": "1 saat 15 dakika",
+            "ucakTipi": "Airbus A380",
+            "fiyat": 4500
+          }
+        ],
+
+        "Ankara-İzmir": [
+          {
+            "saat": "11.00",
+            "ucusSuresi": "1 saat 15 dakika",
+            "ucakTipi": "Airbus A380",
+            "fiyat": 4500
+          },
+
+          {
+            "saat": "12.55",
+            "ucusSuresi": "1 saat 15 dakika",
+            "ucakTipi": "Airbus A380",
+            "fiyat": 4500
+          },
+
+          {
+            "saat": "14.35",
+            "ucusSuresi": "1 saat 15 dakika",
+            "ucakTipi": "Airbus A380",
+            "fiyat": 4500
+          },
+
+          {
+            "saat": "16.40",
+            "ucusSuresi": "1 saat 15 dakika",
+            "ucakTipi": "Airbus A380",
+            "fiyat": 4500
+          },
+
+          {
+            "saat": "21.00",
+            "ucusSuresi": "1 saat 15 dakika",
+            "ucakTipi": "Airbus A380",
+            "fiyat": 4500
+          },
+
+          {
+            "saat": "23.15",
+            "ucusSuresi": "1 saat 15 dakika",
+            "ucakTipi": "Airbus A380",
+            "fiyat": 4500
+          }
+        ],
+
+        "İstanbul-Gaziantep": [
+          {
+            "saat": "05.00",
+            "ucusSuresi": "1 saat 45 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 3525
+          },
+
+          {
+            "saat": "09.35",
+            "ucusSuresi": "1 saat 45 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 3525
+          },
+
+          {
+            "saat": "12.00",
+            "ucusSuresi": "1 saat 45 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 3525
+          },
+
+          {
+            "saat": "14.00",
+            "ucusSuresi": "1 saat 45 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 3525
+          },
+
+          {
+            "saat": "22.00",
+            "ucusSuresi": "1 saat 45 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 3525
+          }
+        ],
+
+        "Gaziantep-İstanbul": [
+          {
+            "saat": "01.05",
+            "ucusSuresi": "1 saat 45 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 3525
+          },
+
+          {
+            "saat": "05.50",
+            "ucusSuresi": "1 saat 45 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 3525
+          },
+
+          {
+            "saat": "13.55",
+            "ucusSuresi": "1 saat 45 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 3525
+          },
+
+          {
+            "saat": "17.15",
+            "ucusSuresi": "1 saat 45 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 3525
+          },
+
+          {
+            "saat": "22.59",
+            "ucusSuresi": "1 saat 45 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 3525
+          }
+        ],
+
+        "Ankara-Gaziantep": [
+          {
+            "saat": "00.00",
+            "ucusSuresi": "1 saat 15 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1970
+          },
+
+          {
+            "saat": "08.25",
+            "ucusSuresi": "1 saat 15 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1970
+          },
+
+          {
+            "saat": "18.30",
+            "ucusSuresi": "1 saat 15 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1970
+          },
+
+          {
+            "saat": "23.00",
+            "ucusSuresi": "1 saat 15 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1970
+          }
+
+
+        ],
+
+        "Gaziantep-Ankara": [
+          {
+            "saat": "01.15",
+            "ucusSuresi": "1 saat 15 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1970
+          },
+
+          {
+            "saat": "09.30",
+            "ucusSuresi": "1 saat 15 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1970
+          },
+
+          {
+            "saat": "17.35",
+            "ucusSuresi": "1 saat 15 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1970
+          },
+
+          {
+            "saat": "22.55",
+            "ucusSuresi": "1 saat 15 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1970
+          }
+
+
+        ],
+
+        "İstanbul-Antalya": [
+
+          {
+            "saat": "01.30",
+            "ucusSuresi": "1 saat 20 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 2045
+          },
+
+          {
+            "saat": "10.00",
+            "ucusSuresi": "1 saat 20 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 2045
+          },
+
+          {
+            "saat": "11.00",
+            "ucusSuresi": "1 saat 20 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 2045
+          },
+          {
+            "saat": "12.00",
+            "ucusSuresi": "1 saat 20 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 2045
+          },
+
+          {
+            "saat": "13.45",
+            "ucusSuresi": "1 saat 20 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 2045
+          },
+
+          {
+            "saat": "15.15",
+            "ucusSuresi": "1 saat 20 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 2045
+          },
+          {
+            "saat": "17.00",
+            "ucusSuresi": "1 saat 20 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 2045
+          },
+          {
+            "saat": "19.45",
+            "ucusSuresi": "1 saat 20 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 2045
+          },
+          {
+            "saat": "21.05",
+            "ucusSuresi": "1 saat 20 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 2045
+          },
+
+          {
+            "saat": "23.55",
+            "ucusSuresi": "1 saat 20 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 2045
+          }
+
+        ],
+
+
+        "Antalya-İstanbul": [
+
+          {
+            "saat": "02.45",
+            "ucusSuresi": "1 saat 20 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 2045
+          },
+
+          {
+            "saat": "11.00",
+            "ucusSuresi": "1 saat 20 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 2045
+          },
+
+          {
+            "saat": "13.40",
+            "ucusSuresi": "1 saat 20 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 2045
+          },
+          {
+            "saat": "14.25",
+            "ucusSuresi": "1 saat 20 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 2045
+          },
+
+          {
+            "saat": "15.20",
+            "ucusSuresi": "1 saat 20 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 2045
+          },
+
+          {
+            "saat": "17.10",
+            "ucusSuresi": "1 saat 20 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 2045
+          },
+          {
+            "saat": "19.30",
+            "ucusSuresi": "1 saat 20 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 2045
+          },
+          {
+            "saat": "20.40",
+            "ucusSuresi": "1 saat 20 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 2045
+          },
+          {
+            "saat": "22.55",
+            "ucusSuresi": "1 saat 20 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 2045
+          }
+
+        ],
+
+        "Ankara-Antalya": [
+          {
+            "saat": "06.30",
+            "ucusSuresi": "1 saat 10 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 940
+          },
+          {
+            "saat": "10.30",
+            "ucusSuresi": "1 saat 10 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 940
+          },
+          {
+            "saat": "13.10",
+            "ucusSuresi": "1 saat 10 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 940
+          },
+          {
+            "saat": "15.25",
+            "ucusSuresi": "1 saat 10 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 940
+          },
+
+          {
+            "saat": "19.10",
+            "ucusSuresi": "1 saat 10 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 940
+          },
+          {
+            "saat": "20.40",
+            "ucusSuresi": "1 saat 10 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 940
+          }
+
+        ],
+
+        "Antalya-Ankara": [
+          {
+            "saat": "08.05",
+            "ucusSuresi": "1 saat 10 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 940
+          },
+          {
+            "saat": "10.45",
+            "ucusSuresi": "1 saat 10 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 940
+          },
+          {
+            "saat": "14.10",
+            "ucusSuresi": "1 saat 10 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 940
+          },
+          {
+            "saat": "18.15",
+            "ucusSuresi": "1 saat 10 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 940
+          },
+
+          {
+            "saat": "20.00",
+            "ucusSuresi": "1 saat 10 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 940
+          },
+          {
+            "saat": "21.20",
+            "ucusSuresi": "1 saat 10 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 940
+          }
+
+        ],
+
+        "Ankara-İstanbul": [
+          {
+            "saat": "04.25",
+            "ucusSuresi": "1 saat 10 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1900
+          },
+          {
+            "saat": "07.05",
+            "ucusSuresi": "1 saat 10 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1900
+          },
+          {
+            "saat": "13.40",
+            "ucusSuresi": "1 saat 10 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1900
+          },
+          {
+            "saat": "15.15",
+            "ucusSuresi": "1 saat 10 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1900
+          },
+          {
+            "saat": "20.35",
+            "ucusSuresi": "1 saat 10 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1900
+          },
+          {
+            "saat": "23.25",
+            "ucusSuresi": "1 saat 10 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1900
+          }
+        ],
+        "İstanbul-Ankara": [
+          {
+            "saat": "02.20",
+            "ucusSuresi": "1 saat 10 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1900
+          },
+          {
+            "saat": "06.00",
+            "ucusSuresi": "1 saat 10 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1900
+          },
+          {
+            "saat": "14.50",
+            "ucusSuresi": "1 saat 10 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1900
+          },
+          {
+            "saat": "16.05",
+            "ucusSuresi": "1 saat 10 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1900
+          },
+          {
+            "saat": "21.55",
+            "ucusSuresi": "1 saat 10 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1900
+          },
+          {
+            "saat": "23.00",
+            "ucusSuresi": "1 saat 10 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1900
+          }
+        ],
+
+        "İstanbul-İzmir": [
+          {
+            "saat": "03.00",
+            "ucusSuresi": "1 saat 05 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1959
+          },
+          {
+            "saat": "08.50",
+            "ucusSuresi": "1 saat 05 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1959
+          },
+
+          {
+            "saat": "12.00",
+            "ucusSuresi": "1 saat 05 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1959
+          },
+          {
+            "saat": "16.05",
+            "ucusSuresi": "1 saat 05 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1959
+          },
+          {
+            "saat": "18.10",
+            "ucusSuresi": "1 saat 05 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1959
+          },
+          {
+            "saat": "20.00",
+            "ucusSuresi": "1 saat 05 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1959
+          }
+        ],
+
+
+        "İzmir-İstanbul": [
+          {
+            "saat": "01.50",
+            "ucusSuresi": "1 saat 05 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1959
+          },
+          {
+            "saat": "08.50",
+            "ucusSuresi": "1 saat 05 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1959
+          },
+
+          {
+            "saat": "12.25",
+            "ucusSuresi": "1 saat 05 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1959
+          },
+          {
+            "saat": "15.45",
+            "ucusSuresi": "1 saat 05 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1959
+          },
+          {
+            "saat": "19.10",
+            "ucusSuresi": "1 saat 05 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1959
+          },
+          {
+            "saat": "21.55",
+            "ucusSuresi": "1 saat 05 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1959
+          }
+        ]
+      }
+
+    ],
+
+    "PazarSeferleri": [
+      {
+        "İzmir-Ankara": [
+          {
+            "saat": "09.45",
+            "ucusSuresi": "1 saat 15 dakika",
+            "ucakTipi": "Airbus A380",
+            "fiyat": 4500
+
+          },
+
+          {
+            "saat": "10.15",
+            "ucusSuresi": "1 saat 15 dakika",
+            "ucakTipi": "Airbus A380",
+            "fiyat": 4500
+          },
+
+          {
+            "saat": "12.20",
+            "ucusSuresi": "1 saat 15 dakika",
+            "ucakTipi": "Airbus A380",
+            "fiyat": 4500
+          },
+
+          {
+            "saat": "14.00",
+            "ucusSuresi": "1 saat 15 dakika",
+            "ucakTipi": "Airbus A380",
+            "fiyat": 4500
+          },
+
+          {
+            "saat": "18.45",
+            "ucusSuresi": "1 saat 15 dakika",
+            "ucakTipi": "Airbus A380",
+            "fiyat": 4500
+          },
+
+          {
+            "saat": "20.50",
+            "ucusSuresi": "1 saat 15 dakika",
+            "ucakTipi": "Airbus A380",
+            "fiyat": 4500
+          }
+        ],
+
+        "Ankara-İzmir": [
+          {
+            "saat": "11.00",
+            "ucusSuresi": "1 saat 15 dakika",
+            "ucakTipi": "Airbus A380",
+            "fiyat": 4500
+          },
+
+          {
+            "saat": "12.55",
+            "ucusSuresi": "1 saat 15 dakika",
+            "ucakTipi": "Airbus A380",
+            "fiyat": 4500
+          },
+
+          {
+            "saat": "14.35",
+            "ucusSuresi": "1 saat 15 dakika",
+            "ucakTipi": "Airbus A380",
+            "fiyat": 4500
+          },
+
+          {
+            "saat": "16.40",
+            "ucusSuresi": "1 saat 15 dakika",
+            "ucakTipi": "Airbus A380",
+            "fiyat": 4500
+          },
+
+          {
+            "saat": "21.00",
+            "ucusSuresi": "1 saat 15 dakika",
+            "ucakTipi": "Airbus A380",
+            "fiyat": 4500
+          },
+
+          {
+            "saat": "23.15",
+            "ucusSuresi": "1 saat 15 dakika",
+            "ucakTipi": "Airbus A380",
+            "fiyat": 4500
+          }
+        ],
+
+        "İstanbul-Gaziantep": [
+          {
+            "saat": "05.00",
+            "ucusSuresi": "1 saat 45 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 3525
+          },
+
+          {
+            "saat": "09.35",
+            "ucusSuresi": "1 saat 45 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 3525
+          },
+
+          {
+            "saat": "12.00",
+            "ucusSuresi": "1 saat 45 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 3525
+          },
+
+          {
+            "saat": "14.00",
+            "ucusSuresi": "1 saat 45 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 3525
+          },
+
+          {
+            "saat": "22.00",
+            "ucusSuresi": "1 saat 45 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 3525
+          }
+        ],
+
+        "Gaziantep-İstanbul": [
+          {
+            "saat": "01.05",
+            "ucusSuresi": "1 saat 45 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 3525
+          },
+
+          {
+            "saat": "05.50",
+            "ucusSuresi": "1 saat 45 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 3525
+          },
+
+          {
+            "saat": "13.55",
+            "ucusSuresi": "1 saat 45 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 3525
+          },
+
+          {
+            "saat": "17.15",
+            "ucusSuresi": "1 saat 45 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 3525
+          },
+
+          {
+            "saat": "22.59",
+            "ucusSuresi": "1 saat 45 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 3525
+          }
+        ],
+
+        "Ankara-Gaziantep": [
+          {
+            "saat": "00.00",
+            "ucusSuresi": "1 saat 15 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1970
+          },
+
+          {
+            "saat": "08.25",
+            "ucusSuresi": "1 saat 15 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1970
+          },
+
+          {
+            "saat": "18.30",
+            "ucusSuresi": "1 saat 15 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1970
+          },
+
+          {
+            "saat": "23.00",
+            "ucusSuresi": "1 saat 15 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1970
+          }
+
+
+        ],
+
+        "Gaziantep-Ankara": [
+          {
+            "saat": "01.15",
+            "ucusSuresi": "1 saat 15 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1970
+          },
+
+          {
+            "saat": "09.30",
+            "ucusSuresi": "1 saat 15 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1970
+          },
+
+          {
+            "saat": "17.35",
+            "ucusSuresi": "1 saat 15 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1970
+          },
+
+          {
+            "saat": "22.55",
+            "ucusSuresi": "1 saat 15 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1970
+          }
+
+
+        ],
+
+        "İstanbul-Antalya": [
+
+          {
+            "saat": "01.30",
+            "ucusSuresi": "1 saat 20 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 2045
+          },
+
+          {
+            "saat": "10.00",
+            "ucusSuresi": "1 saat 20 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 2045
+          },
+
+          {
+            "saat": "11.00",
+            "ucusSuresi": "1 saat 20 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 2045
+          },
+          {
+            "saat": "12.00",
+            "ucusSuresi": "1 saat 20 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 2045
+          },
+
+          {
+            "saat": "13.45",
+            "ucusSuresi": "1 saat 20 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 2045
+          },
+
+          {
+            "saat": "15.15",
+            "ucusSuresi": "1 saat 20 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 2045
+          },
+          {
+            "saat": "17.00",
+            "ucusSuresi": "1 saat 20 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 2045
+          },
+          {
+            "saat": "19.45",
+            "ucusSuresi": "1 saat 20 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 2045
+          },
+          {
+            "saat": "21.05",
+            "ucusSuresi": "1 saat 20 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 2045
+          },
+
+          {
+            "saat": "23.55",
+            "ucusSuresi": "1 saat 20 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 2045
+          }
+
+        ],
+
+
+        "Antalya-İstanbul": [
+
+          {
+            "saat": "02.45",
+            "ucusSuresi": "1 saat 20 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 2045
+          },
+
+          {
+            "saat": "11.00",
+            "ucusSuresi": "1 saat 20 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 2045
+          },
+
+          {
+            "saat": "13.40",
+            "ucusSuresi": "1 saat 20 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 2045
+          },
+          {
+            "saat": "14.25",
+            "ucusSuresi": "1 saat 20 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 2045
+          },
+
+          {
+            "saat": "15.20",
+            "ucusSuresi": "1 saat 20 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 2045
+          },
+
+          {
+            "saat": "17.10",
+            "ucusSuresi": "1 saat 20 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 2045
+          },
+          {
+            "saat": "19.30",
+            "ucusSuresi": "1 saat 20 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 2045
+          },
+          {
+            "saat": "20.40",
+            "ucusSuresi": "1 saat 20 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 2045
+          },
+          {
+            "saat": "22.55",
+            "ucusSuresi": "1 saat 20 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 2045
+          }
+
+        ],
+
+        "Ankara-Antalya": [
+          {
+            "saat": "06.30",
+            "ucusSuresi": "1 saat 10 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 940
+          },
+          {
+            "saat": "10.30",
+            "ucusSuresi": "1 saat 10 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 940
+          },
+          {
+            "saat": "13.10",
+            "ucusSuresi": "1 saat 10 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 940
+          },
+          {
+            "saat": "15.25",
+            "ucusSuresi": "1 saat 10 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 940
+          },
+
+          {
+            "saat": "19.10",
+            "ucusSuresi": "1 saat 10 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 940
+          },
+          {
+            "saat": "20.40",
+            "ucusSuresi": "1 saat 10 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 940
+          }
+
+        ],
+
+        "Antalya-Ankara": [
+          {
+            "saat": "08.05",
+            "ucusSuresi": "1 saat 10 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 940
+          },
+          {
+            "saat": "10.45",
+            "ucusSuresi": "1 saat 10 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 940
+          },
+          {
+            "saat": "14.10",
+            "ucusSuresi": "1 saat 10 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 940
+          },
+          {
+            "saat": "18.15",
+            "ucusSuresi": "1 saat 10 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 940
+          },
+
+          {
+            "saat": "20.00",
+            "ucusSuresi": "1 saat 10 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 940
+          },
+          {
+            "saat": "21.20",
+            "ucusSuresi": "1 saat 10 dakika",
+            "ucakTipi": "Boeing 787",
+            "fiyat": 940
+          }
+
+        ],
+
+        "Ankara-İstanbul": [
+          {
+            "saat": "04.25",
+            "ucusSuresi": "1 saat 10 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1900
+          },
+          {
+            "saat": "07.05",
+            "ucusSuresi": "1 saat 10 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1900
+          },
+          {
+            "saat": "13.40",
+            "ucusSuresi": "1 saat 10 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1900
+          },
+          {
+            "saat": "15.15",
+            "ucusSuresi": "1 saat 10 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1900
+          },
+          {
+            "saat": "20.35",
+            "ucusSuresi": "1 saat 10 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1900
+          },
+          {
+            "saat": "23.25",
+            "ucusSuresi": "1 saat 10 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1900
+          }
+        ],
+        "İstanbul-Ankara": [
+          {
+            "saat": "02.20",
+            "ucusSuresi": "1 saat 10 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1900
+          },
+          {
+            "saat": "06.00",
+            "ucusSuresi": "1 saat 10 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1900
+          },
+          {
+            "saat": "14.50",
+            "ucusSuresi": "1 saat 10 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1900
+          },
+          {
+            "saat": "16.05",
+            "ucusSuresi": "1 saat 10 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1900
+          },
+          {
+            "saat": "21.55",
+            "ucusSuresi": "1 saat 10 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1900
+          },
+          {
+            "saat": "23.00",
+            "ucusSuresi": "1 saat 10 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1900
+          }
+        ],
+
+        "İstanbul-İzmir": [
+          {
+            "saat": "03.00",
+            "ucusSuresi": "1 saat 05 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1959
+          },
+          {
+            "saat": "08.50",
+            "ucusSuresi": "1 saat 05 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1959
+          },
+
+          {
+            "saat": "12.00",
+            "ucusSuresi": "1 saat 05 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1959
+          },
+          {
+            "saat": "16.05",
+            "ucusSuresi": "1 saat 05 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1959
+          },
+          {
+            "saat": "18.10",
+            "ucusSuresi": "1 saat 05 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1959
+          },
+          {
+            "saat": "20.00",
+            "ucusSuresi": "1 saat 05 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1959
+          }
+        ],
+
+
+        "İzmir-İstanbul": [
+          {
+            "saat": "01.50",
+            "ucusSuresi": "1 saat 05 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1959
+          },
+          {
+            "saat": "08.50",
+            "ucusSuresi": "1 saat 05 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1959
+          },
+
+          {
+            "saat": "12.25",
+            "ucusSuresi": "1 saat 05 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1959
+          },
+          {
+            "saat": "15.45",
+            "ucusSuresi": "1 saat 05 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1959
+          },
+          {
+            "saat": "19.10",
+            "ucusSuresi": "1 saat 05 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1959
+          },
+          {
+            "saat": "21.55",
+            "ucusSuresi": "1 saat 05 dakika",
+            "ucakTipi": "Airbus A340",
+            "fiyat": 1959
+          }
+        ]
+      }
+    ]
+
+
+
+
+  }
+    ]
+
+
+  
+
+ }
+  
+
+   
+
+
+
+
