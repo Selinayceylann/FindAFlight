@@ -17,22 +17,23 @@ Uygulama, Swift programlama dili kullanılarak geliştirilmiş ve yalnızca iOS 
 <details>
   <summary><h3>Screenshots</h3></summary>
 
-  <h4>Başlangıç ve Giriş Ekranları</h4>
+  <h4> Giriş ve Anasayfa Ekranları</h4>
   <table>
     <tr>
-      <td><img src="https://github.com/Selinayceylann/Foodie/blob/2bb61ec2536ea1ac80e278a907b89592dbf34e6c/FoodieStoreApp/Screenshots/LoginScreen.png" alt="Login Screen" width="200"/></td>
-      <td><img src="https://github.com/Selinayceylann/Foodie/blob/main/FoodieStoreApp/Screenshots/CreateAccountScreen.png" alt="Create Account Screen" width="200"/></td>
-      <td><img src="https://github.com/Selinayceylann/Foodie/blob/main/FoodieStoreApp/Screenshots/SingInScreen.png" alt="Sign In Screen" width="200"/></td>
-      <td><img src="https://github.com/Selinayceylann/Foodie/blob/main/FoodieStoreApp/Screenshots/PasswordScreen.png" alt="Password Screen" width="200"/></td>
+      <td><img src="https://github.com/Selinayceylann/FindAFlight/blob/main/TravelApplication2/screenshots2/girisyap.png" width="200"/></td>
+      <td><img src="https://github.com/Selinayceylann/FindAFlight/blob/main/TravelApplication2/screenshots2/kayitol.png" width="200"/></td>
+      <td><img src="https://github.com/Selinayceylann/FindAFlight/blob/main/TravelApplication2/screenshots2/anasayfa.png" width="200"/></td>
+      <td><img src="https://github.com/Selinayceylann/FindAFlight/blob/main/TravelApplication2/screenshots2/koltuksecimi.png" width="200"/></td>
     </tr>
   </table>
 
-  <h4>Anasayfa ve Ürünler Ekranları</h4>
+  <h4>Bilet Alma ve Hesabım Ekranları</h4>
   <table>
     <tr>
-      <td><img src="https://github.com/Selinayceylann/Foodie/blob/main/FoodieStoreApp/Screenshots/HomeScreen.png" alt="Home Screen" width="200"/></td>
-      <td><img src="https://github.com/Selinayceylann/Foodie/blob/main/FoodieStoreApp/Screenshots/ProductScreen.png" alt="Product Screen" width="200"/></td>
-      <td><img src="https://github.com/Selinayceylann/Foodie/blob/main/FoodieStoreApp/Screenshots/BuyScreen.png" alt="Buy Screen" width="200"/></td>
+      <td><img src="https://github.com/Selinayceylann/FindAFlight/blob/main/TravelApplication2/screenshots2/biletal.png" width="200"/></td>
+      <td><img src="https://github.com/Selinayceylann/FindAFlight/blob/main/TravelApplication2/screenshots2/seyehatlerim.png" width="200"/></td>
+      <td><img src="https://github.com/Selinayceylann/FindAFlight/blob/main/TravelApplication2/screenshots2/rezervasyonlarım.png" width="200"/></td>
+      <td><img src="https://github.com/Selinayceylann/FindAFlight/blob/main/TravelApplication2/screenshots2/hesabım.png" width="200"/></td>
     </tr>
   </table>
 
